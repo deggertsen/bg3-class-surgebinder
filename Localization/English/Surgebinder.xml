@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="hb92a0580ge5bag41dagb569gc21fef218952" version="1">Surgebinder</content>
+	<content contentuid="h9c80594eg0e19g43f3g99b7ge621aec91022" version="1">Surgebinders can manipulate ten fundamental forces known as Surges, with each Surgebinder having access to two of the Surges with overlap between them, by infusing objects or beings with Stormlight.</content>
+	
+	<content contentuid="h23dd1273gde70g4c01gb1ebgfbd041449566" version="1">Order of Windrunners</content>
+	<content contentuid="hbcb92fe9gb226g41f9gabe0gbfe829d895b6" version="1">The Windrunners are Surgebinders who use the Surges of Adhesion and Gravitation, and they are associated with the sapphire polestone. They form a Nahel bond with honorspren. Windspren form their Shardplate. The combination of Adhesion and Gravitation results in the three Lashings.</content>
+	
+	<content contentuid="h535054d5g2e71g46a0ga9cageec58a627ce1" version="1">Order of Edgedancers</content>
+	<content contentuid="hc286bae2g6604g42e6gb22eg95136d658b72" version="1">The Edgedancers are Surgebinders who use the Surges of Abrasion and Progression, and they are associated with the diamond polestone. They bond cultivationspren. They have great mobility on the battlefield and are fantastic healers.</content>
+	
+	<content contentuid="h8a5389a7gfb08g480bga4f2gc873bc322e32" version="1">Stormlight</content>
+	<content contentuid="h606e82efg3e3fg457ag8bc3g354fd636ac91" version="1">Stormlight is expended to use Surgebinder abilities. You regain expended Stormlights after a &lt;LSTag Tooltip="ShortRest"&gt;Short&lt;/LSTag&gt; or &lt;LSTag Tooltip="LongRest"&gt;Long Rest&lt;/LSTag&gt;.</content>
+
+	<content contentuid="h1bc17722g2b06g48a1g98d0gb8e466e81e2d" version="1">Stormlight Charge Unlock</content>
+	<content contentuid="h1ec86baagacffg4111gb4f4g06f7426afb28" version="1">You gain one &lt;LSTag Type="Passive" Tooltip="PassiveStormlight_Tooltip"&gt;Stormlight&lt;/LSTag&gt; charge.</content>
+</contentList>

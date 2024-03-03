@@ -1,0 +1,4 @@
+new entry "PassiveStormlight_Tooltip"
+type "PassiveData"
+data "DisplayName" "h8a5389a7gfb08g480bga4f2gc873bc322e32"
+data "Description" "h606e82efg3e3fg457ag8bc3g354fd636ac91"

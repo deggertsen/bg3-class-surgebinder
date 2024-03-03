@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="0" minor="0" revision="0" build="1"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="FightingStyle_Dueling"/>
+                    <attribute id="Level" type="int32" value="2"/>
+                    <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
+                    <attribute id="UUID" type="guid" value="e613ebe3-91dd-4559-9556-55d7098755cb"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
