@@ -6,12 +6,12 @@
             <children>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>               
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0);ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>               
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
 					<attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(0e1468ec-0eec-4166-96ca-2f1e7f66772d,3);SelectSpells(a8f7f76a-7810-459d-bf78-3c5219699ec6,1,1,BloodCurses);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(0e1468ec-0eec-4166-96ca-2f1e7f66772d,3)"/>
 					<attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/> 
                     <attribute id="UUID" type="guid" value="b85c5b64-347c-4ece-b45c-fe55a6fa2762"/>
                 </node>
@@ -23,7 +23,7 @@
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
 					<attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(0e1468ec-0eec-4166-96ca-2f1e7f66772d,1);SelectSpells(a8f7f76a-7810-459d-bf78-3c5219699ec6,1,1,BloodCurses)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(0e1468ec-0eec-4166-96ca-2f1e7f66772d,1)"/>
 					<attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
                     <attribute id="UUID" type="guid" value="b9b4cd63-663a-405f-992b-9a90cbb75779"/>
                 </node>
@@ -32,7 +32,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="FightingStyle_Dueling"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(49862341-f0f5-4c70-a6c1-4034ce9276eb,1,FightingStyle);SelectPassives(7bcc4823-2a4d-4a57-b867-69d9180de0a9,1,CrimsonRites)"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
                     <attribute id="UUID" type="guid" value="9f32e526-efb6-42a3-8ecc-722cfd5b75b0"/>
@@ -81,7 +81,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0);ActionResource(BrandOfCastigation,1,0)"/>
                     <attribute id="PassivesAdded" type="LSString" value="BrandOfCastigation"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(a8f7f76a-7810-459d-bf78-3c5219699ec6,1,1,BloodCurses)"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
                     <attribute id="UUID" type="guid" value="6497b379-2364-4e28-9045-fa5162bba0de"/>
                 </node>
@@ -112,7 +112,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(a8f7f76a-7810-459d-bf78-3c5219699ec6,1,1,BloodCurses)"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
                     <attribute id="UUID" type="guid" value="22341932-e8c6-439c-a448-239a4651c018"/>
@@ -201,32 +201,33 @@
 
                 Subclasses
 
-                OrderOfTheLycan
+                OrderOfWindrunners
 
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Name" type="LSString" value="OrderOfTheLycan"/>
+                    <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(HybridTransformation,1,0)"/> 
-                    <attribute id="PassivesAdded" type="LSString" value="OrderOfTheLycan;HeightenedSenses;FeralMight;ResilientHide;PredatoryStrikes;HybridBloodlust;LycanRiteHelper"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="86ad2834-fc93-45dd-8ec0-ee5d406ba230"/>
                     <attribute id="UUID" type="guid" value="ae8af1d1-17dc-41b6-ba03-742c8e297a90"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="OrderOfTheLycan"/>
+                    <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="StalkersProwess;ImprovedPredatoryStrikes"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="86ad2834-fc93-45dd-8ec0-ee5d406ba230"/>
                     <attribute id="UUID" type="guid" value="97af1c8f-4e2d-4e89-abbe-a655da6f1f7a"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
-                    <attribute id="Name" type="LSString" value="OrderOfTheLycan"/>
+                    <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(HybridTransformation,1,0)"/> 
-                    <attribute id="PassivesAdded" type="LSString" value="ImprovedFeralMight11;ImprovedPredatoryStrikes11;LycanRegeneration;AdvancedTransformation"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="FeralMight;ImprovedPredatoryStrikes"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="86ad2834-fc93-45dd-8ec0-ee5d406ba230"/>
                     <attribute id="UUID" type="guid" value="2a510327-c010-44e5-b14e-ad3996c6c682"/>
                 </node>
@@ -234,31 +235,33 @@
 
                 Subclasses
 
-                OrderOfTheGhostslayer
+                OrderOfEdgedancers
 
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Name" type="LSString" value="OrderOfTheGhostslayer"/>
+                    <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="RiteOfTheDawn;CurseSpecialist"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="7b8c81e1-b31a-46fd-babb-834e098ff474"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="7"/>
-                    <attribute id="Name" type="LSString" value="OrderOfTheGhostslayer"/>
+                    <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="AetherWalk"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="9beb7905-4e74-48ce-951a-ddb8d0933552"/>
                 </node>
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
-                    <attribute id="Name" type="LSString" value="OrderOfTheGhostslayer"/>
+                    <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="BrandOfSundering"/>
-                    <attribute id="PassivesRemoved" type="LSString" value="BrandOfCastigation"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="9084f92c-06e6-4230-bfac-30775e5fa07c"/>
                 </node>
