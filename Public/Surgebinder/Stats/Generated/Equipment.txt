@@ -1,7 +1,7 @@
 new equipment "EQP_CC_Surgebinder"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "WPN_Surgebinder_Longsword"
+add equipment entry "WPN_Longsword"
 add equipmentgroup
 add equipment entry "WPN_HandCrossbow"
 add equipmentgroup
@@ -9,7 +9,7 @@ add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
-add equipment entry "ARM_Surgebinder"
+add equipment entry "ARM_ScaleMail_Body"
 add equipmentgroup
 add equipment entry "ARM_Shoes"
 add equipmentgroup
