@@ -14,7 +14,9 @@
                 <node id="ProgressionDescription">
                     <attribute id="Description" type="TranslatedString" handle="h1ec86baagacffg4111gb4f4g06f7426afb28" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h1bc17722g2b06g48a1g98d0gb8e466e81e2d" version="1"/>
-                    <attribute id="ExactMatch" type="FixedString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="ParamMatch" type="FixedString" value="0:Stormlight"/>
+                    <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
+                    <attribute id="Type" type="FixedString" value="ActionResource" />
                     <attribute id="UUID" type="guid" value="8545185b-f090-4575-b6ee-9239c1482530"/>
                 </node>
             </children>
