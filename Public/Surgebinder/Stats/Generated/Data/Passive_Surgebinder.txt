@@ -1,0 +1,7 @@
+new entry "Stormlight_Healing"
+type "PassiveData"
+data "DisplayName" "h12054452g19c8g4998ga0f6g0dbae4ff18b6;1"
+data "Description" "h939dd45cgd5dag496fg8c50g8f900363c2b8;1"
+data "Icon" "Icon_StormlightHealing"
+data "Properties" "Highlighted"
+data "Boosts" "Advantage(Skill, Survival)"
