@@ -1,5 +1,5 @@
 # Surgebinder (Knight Radiant) class for Baulder's Gate 3
-This is currently a work in progress. I've only spent a few hours leaning how to mod and then building the scaffolding for this class. Any suggestions or pull requests would be welcome!
+This is currently a work in progress. I'm new to modding so any suggestions or pull requests would be welcome!
 
 # Plans
 Oaths can be broken similar to paladin devotion. Oath breakers lose access to stormlight.
