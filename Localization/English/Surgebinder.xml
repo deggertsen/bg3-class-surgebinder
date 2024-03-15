@@ -14,4 +14,7 @@
 
 	<content contentuid="h1bc17722g2b06g48a1g98d0gb8e466e81e2d" version="1">Stormlight Charge Unlock</content>
 	<content contentuid="h1ec86baagacffg4111gb4f4g06f7426afb28" version="1">You gain one &lt;LSTag Type="Passive" Tooltip="PassiveStormlight_Tooltip"&gt;Stormlight&lt;/LSTag&gt; charge.</content>
+	
+	<content contentuid="h5fa82bf3g2af4g4e64gbf5bg3d1c086d247d" version="1">Stormlight Healing</content>
+	<content contentuid="hc9783f46g9e3dg4402g8a2ag5b0589847087" version="1">Regenerate HP equal to your current &lt;b&gt;Surgebinder level&lt;/b&gt; at the start of your turn at the cost of &lt;LSTag Type="Passive" Tooltip="PassiveStormlight_Tooltip"&gt;Stormlight&lt;/LSTag&gt;.</content>
 </contentList>
