@@ -5,7 +5,7 @@ This is currently a work in progress. I'm new to modding so any suggestions or p
 Oaths can be broken similar to paladin devotion. Oath breakers lose access to stormlight.
 
 #### lvl 1
-Find familiar (spren)
+Find familiar (spren) - grants advantage on all non-physical checks while summoned?
 
 #### lvl 2
 * Choose subclass (radiant order)

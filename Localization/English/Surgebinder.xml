@@ -17,4 +17,10 @@
 	
 	<content contentuid="h5fa82bf3g2af4g4e64gbf5bg3d1c086d247d" version="1">Stormlight Healing</content>
 	<content contentuid="hc9783f46g9e3dg4402g8a2ag5b0589847087" version="1">Regenerate HP equal to your current &lt;b&gt;Surgebinder level&lt;/b&gt; at the start of your turn at the cost of &lt;LSTag Type="Passive" Tooltip="PassiveStormlight_Tooltip"&gt;Stormlight&lt;/LSTag&gt;.</content>
+	
+	<content contentuid="h06bd344dg73f2g4afag8f12g0dda245aa9f9" version="1">Call Spren</content>
+	<content contentuid="hae6aeb15g3893g40e2g8c0bg8e0e00e59daf" version="1">Call your spren to your side.</content>
+
+	<content contentuid="h93debe49g7317g45ffga9a5g03018cc3f0c6" version="2">Bonded Spren</content>
+	<content contentuid="a8dbd13f-6084-4394-a666-a3fae093b35f" version="2">Summon your bonded spren. Having your spren active will give you advantage on all Intelligence, Wisdom, and Charisma checks</content>
 </contentList>
