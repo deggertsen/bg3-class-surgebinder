@@ -3,7 +3,7 @@
 new entry "Target_SurgebinderBonded_Spren"
 type "SpellData"
 data "SpellType" "Target"
-data "Cooldown" "OncePerShortRest"
+data "Cooldown" "OncePerTurn"
 data "TargetRadius" "18"
 //data "Requirements" "!Combat"
 data "TargetConditions" "CanStand('ef14d339-8858-476b-9e50-237b53f42684') and not Character() and not Self()"
