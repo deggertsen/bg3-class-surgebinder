@@ -18,7 +18,6 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="ha5f86bd4gdd85g4aabgb2f5g9616148acfd2" version="1" />
 					<attribute id="Icon" type="FixedString" value="f6c21093-b4af-2929-d313-fb5001c2f245-_(Icon_ScryingEye)" />
 					<attribute id="Stats" type="FixedString" value="Bonded_Spren" />
-					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
 					<attribute id="LadderAttachOffset" type="float" value="0.1" />
 					<attribute id="LadderLoopSpeed" type="float" value="3.333" />
 					<attribute id="CanClimbLadders" type="bool" value="True" />
@@ -47,7 +46,7 @@
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_ScryingEye" />
 					<attribute id="Race" type="guid" value="632746dc-dcab-4b16-9e7e-029a04aafb59" />
 					<attribute id="Archetype" type="FixedString" value="beast" />
-					<attribute id="Scale" type="float" value="1.33" />
+					<attribute id="Scale" type="float" value="0.33" />
 					<children>
 						<node id="Bounds">
 							<children>
