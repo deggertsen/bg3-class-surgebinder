@@ -22,8 +22,11 @@
 	<content contentuid="hae6aeb15g3893g40e2g8c0bg8e0e00e59daf" version="1">Call your spren to your side.</content>
 
 	<content contentuid="h93debe49g7317g45ffga9a5g03018cc3f0c6" version="2">Bonded Spren</content>
-	<content contentuid="hf359306cg4e07g478egb028g4f80dda2f711" version="2">Summon your bonded spren. Having your spren active will give you advantage on all Intelligence, Wisdom, and Charisma checks</content>
+	<content contentuid="hf359306cg4e07g478egb028g4f80dda2f711" version="2">Summon your bonded spren. Having your spren active will give you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all Intelligence, Wisdom, and Charisma checks</content>
 	
-	<content contentuid="ha5f86bd4gdd85g4aabgb2f5g9616148acfd2" version="2">Spren</content>
-	<content contentuid="hf359306cg4e07g478egb028g4f80dda2f711" version="2">Summon your bonded spren. Having your spren active will give you advantage on all Intelligence, Wisdom, and Charisma checks</content>
+	<content contentuid="ha5f86bd4gdd85g4aabgb2f5g9616148acfd2" version="1">Spren</content>
+	<content contentuid="hf359306cg4e07g478egb028g4f80dda2f711" version="1">Summon your bonded spren. Having your spren active will give you &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all Intelligence, Wisdom, and Charisma checks</content>
+	
+	<content contentuid="h36df7f99ge5bbg4ad9g8e45gb0a3992edf0e" version="1">Spren Guidance</content>
+	<content contentuid="h463bfb99gb14bg45a6ga416gcb3686f8633a" version="1">While your spren is active, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all Intelligence, Wisdom, and Charisma checks</content>
 </contentList>
