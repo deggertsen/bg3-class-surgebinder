@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="330" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="ef14d339-8858-476b-9e50-237b53f42684" />
+					<attribute id="Name" type="LSString" value="Surgebinder_Spren_Summon" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3906a481-1ea0-40ea-9d7c-404b8ff28218" />
+					<attribute id="ReadinessFlags" type="uint32" value="12" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="VisualTemplate" type="FixedString" value="fae3bae2-d48f-6d66-5357-ec571a474b9c" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="6f9c95b3-c595-7a29-c769-c0a8ea896898" />
+					<attribute id="DisplayName" type="TranslatedString" handle="ha5f86bd4gdd85g4aabgb2f5g9616148acfd2" version="1" /> Spren
+					<attribute id="Icon" type="FixedString" value="c41db331-adc3-82f6-3f83-6624b635b0b4-_(Icon_Gnomes_Female)" />
+					<attribute id="Stats" type="FixedString" value="Bonded_Spren" /> Level 1
+					<attribute id="SpellSet" type="FixedString" value="CommonSummonActions" />
+					<attribute id="LadderAttachOffset" type="float" value="0.1" />
+					<attribute id="LadderLoopSpeed" type="float" value="3.333" />
+					<attribute id="CanClimbLadders" type="bool" value="True" />
+					<attribute id="SpotSneakers" type="bool" value="True" />
+					<attribute id="ExplodedResourceID" type="FixedString" value="9b371eaa-2ebe-028e-d577-2202ab7acff1" />
+					<attribute id="LightID" type="FixedString" value="b62fa66d-5720-449a-96ea-3d69f0facfce" />
+					<attribute id="VocalAttackResourceID" type="FixedString" value="0840b299-734b-4de8-ba88-3b6beca5e144" />
+					<attribute id="VocalDeathResourceID" type="FixedString" value="068a9205-75cf-4a72-be7d-70b08cb43912" />
+					<attribute id="VocalDodgeResourceID" type="FixedString" value="02f5b61f-618b-50a0-9cf1-b35250d8a451" />
+					<attribute id="VocalPainResourceID" type="FixedString" value="07d41a24-faf1-4429-8e1b-1d792010d0b0" />
+					<attribute id="VocalFallResourceID" type="FixedString" value="0be58d6b-38ef-fa70-e66b-28d1a1e91eae" />
+					<attribute id="VocalSpawnResourceID" type="FixedString" value="25fcecdb-ba06-5a20-8763-c9d825a6aa98" />
+					<attribute id="VocalAlertResourceID" type="FixedString" value="edb2619e-c340-7dce-5536-81bc2835b74a" />
+					<attribute id="VocalAngryResourceID" type="FixedString" value="91967d9c-7d3d-4650-a4af-4a8402d468e8" />
+					<attribute id="VocalAwakeResourceID" type="FixedString" value="5be27625-3fa4-ef0b-ab6e-88392f8c464f" />
+					<attribute id="VocalBoredResourceID" type="FixedString" value="64e590c8-1a16-4e26-e5e6-eb4e1c320fee" />
+					<attribute id="VocalRelaxedResourceID" type="FixedString" value="f5dbd81c-c9c6-713f-7347-b9a58dafb713" />
+					<attribute id="VocalSnoreResourceID" type="FixedString" value="30498184-44ff-21b5-e635-686665360a67" />
+					<attribute id="VocalExhaustedResourceID" type="FixedString" value="791a42fa-60cd-1aa2-42d8-67c27d8c80a2" />
+					<attribute id="VocalInitiativeResourceID" type="FixedString" value="a805251c-c47d-613e-0232-8b4f3a4e5793" />
+					<attribute id="VocalWeakResourceID" type="FixedString" value="851392c4-580a-5938-64d5-faadc2e30554" />
+					<attribute id="VocalIdle1ResourceID" type="FixedString" value="6e6d26de-e449-498c-57eb-7f532e356b2c" />
+					<attribute id="VocalIdle2ResourceID" type="FixedString" value="96a2d619-2085-00eb-5965-00caac0f171d" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="07cbf781-41cf-a117-27e1-a03c9591f777" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Gnomes_Female" />
+					<attribute id="Race" type="guid" value="632746dc-dcab-4b16-9e7e-029a04aafb59" />
+					<attribute id="Archetype" type="FixedString" value="beast" />
+					<attribute id="Scale" type="float" value="1.33" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="1" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Min" type="fvec3" value="-0.1835111 -0.002368212 -0.679567" />
+									<attribute id="Max" type="fvec3" value="0.1835111 1.155058 0.503225" />
+									<attribute id="Radius" type="float" value="0.8254458" />
+									<attribute id="Height" type="float" value="0.157426" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="2" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0.499" />
+									<attribute id="Height" type="float" value="0.5" />
+								</node>
+								<node id="Bound">
+									<attribute id="Type" type="uint8" value="0" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0.249" />
+									<attribute id="Height" type="float" value="0.5" />
+								</node>
+							</children>
+						</node>
+						<node id="Treasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="TradeTreasures">
+							<children>
+								<node id="TreasureItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="PickingPhysics">
+							<children>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="FixedString" value="CharacterDeadPicking" />
+									<attribute id="MapValue" type="FixedString" value="7571267d-5a58-bc64-7b3d-5db194032edc" />
+								</node>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="FixedString" value="CharacterSittingPicking" />
+									<attribute id="MapValue" type="FixedString" value="7571267d-5a58-bc64-7b3d-5db194032edc" />
+								</node>
+								<node id="PickingPhysicsTemplates">
+									<attribute id="MapKey" type="FixedString" value="CharacterLyingPicking" />
+									<attribute id="MapValue" type="FixedString" value="7571267d-5a58-bc64-7b3d-5db194032edc" />
+								</node>
+							</children>
+						</node>
+						<node id="StatusList">
+							<children>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="SB_SPREN_DEFAULT_VFX" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="SB_SPREN_DEFAULT_VFX_2" />
+								</node>
+							</children>
+						</node>
+						<node id="LocomotionParams">
+							<attribute id="MovementAcceleration" type="float" value="12" />
+							<attribute id="MovementSpeedStroll" type="float" value="1.4" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
