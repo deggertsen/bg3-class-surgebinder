@@ -152,7 +152,7 @@
                     <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Windrunner_DeflectMissiles"/>
                     <attribute id="TableUUID" type="guid" value="86ad2834-fc93-45dd-8ec0-ee5d406ba230"/>
                     <attribute id="UUID" type="guid" value="ae8af1d1-17dc-41b6-ba03-742c8e297a90"/>
                 </node>

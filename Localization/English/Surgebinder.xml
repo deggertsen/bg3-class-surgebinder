@@ -29,4 +29,7 @@
 	
 	<content contentuid="h36df7f99ge5bbg4ad9g8e45gb0a3992edf0e" version="1">Spren Guidance</content>
 	<content contentuid="h463bfb99gb14bg45a6ga416gcb3686f8633a" version="1">While your spren is active, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on all Intelligence, Wisdom, and Charisma checks</content>
+	
+	<content contentuid="h894c07dag00eeg4884gba39gf4c38dfa70f6" version="1">Deflect Missles</content>
+	<content contentuid="h93bf759bg73e4g4b91gb2bbg7a567632354d" version="1">Use your reaction to reduce the damage from a ranged weapon attack by 1d10 + your Dexterity &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; + your Surgebinder level.&lt;br&gt;&lt;br&gt;If the damage is reduced to 0, you use a Stormlight Point to &lt;LSTag Type="Spell" Tooltip="Projectile_Deflect_Missiles"&gt;Deflect the Missile&lt;/LSTag&gt;.</content>
 </contentList>
