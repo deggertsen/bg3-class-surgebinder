@@ -5,14 +5,14 @@ This is currently a work in progress. I'm new to modding so any suggestions or p
 Oaths can be broken similar to paladin devotion. Oath breakers lose access to stormlight.
 
 #### lvl 1
-Find familiar (spren)
-* Spren grants advantage on all Intelligence, Wisdom, and Charisma saving throws
-* Has no strenth, but high dexterity and constitution
+Find familiar (spren) DONE
+* Spren grants advantage on all Intelligence, Wisdom, and Charisma saving throws DONE
+* Has no strenth, but high dexterity and constitution DONE
 
 #### lvl 2
-* Choose subclass (radiant order)
-* Stormlight (start with 3 charges per short rest and gain more per level. Work similar to ki points.)
-* Stormlight healing
+* Choose subclass (radiant order) DONE
+* Stormlight (start with 3 charges per short rest and gain more per level. Work similar to ki points.) DONE
+* Stormlight healing DONE
 
 #### lvl 3
 Summon Shardblade (1 turn + 1 turn per level? Dismisses summoned familiar?)
@@ -26,7 +26,7 @@ Summon shardplate (similar to Shar's Aegis, but much stronger and consumes storm
 ## Sub Classes
 ### Windrunner
 #### lvl 2
-Deflect missiles (similar ability to missile snaring but consumes stormlight)
+Deflect missiles (similar ability to missile snaring but consumes stormlight) DONE
 
 #### lvl 3
 Gust of wind
