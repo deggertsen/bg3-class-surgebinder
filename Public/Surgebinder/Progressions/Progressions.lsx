@@ -6,7 +6,7 @@
             <children>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0);ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Dexterity);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
 					<attribute id="PassivesAdded" type="LSString" value="Passive_Surgebinder_Spren_Summon"/>
@@ -17,7 +17,7 @@
                 </node>
 				<node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0);Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(SimpleWeapons);Proficiency(MartialWeapons);Proficiency(LightArmor);Proficiency(MediumArmor);Proficiency(Shields)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
@@ -29,7 +29,7 @@
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -41,7 +41,7 @@
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
@@ -62,7 +62,7 @@
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="4"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
@@ -71,7 +71,7 @@
                 <node id="Progression">
 					<attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="5"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="PassivesAdded" type="LSString" value="ExtraAttack"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -82,7 +82,7 @@
                     <attribute id="AllowImprovement" type="bool" value="false"/>         
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="PassivesAdded" type="LSString" value="BrandOfCastigation"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -92,7 +92,7 @@
                <node id="Progression">
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
@@ -101,7 +101,7 @@
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="8"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
@@ -110,7 +110,7 @@
                 <node id="Progression">
 			        <attribute id="AllowImprovement" type="bool" value="false"/>
                     <attribute id="Level" type="uint8" value="9"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
@@ -119,7 +119,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="10"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
@@ -128,7 +128,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="11"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
                     <attribute id="UUID" type="guid" value="c3881e98-6b1f-4277-98a1-84ce651c910c"/>
@@ -136,7 +136,7 @@
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
                     <attribute id="Level" type="uint8" value="12"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,1,0)"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
