@@ -34,18 +34,9 @@
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="PassivesAdded" type="LSString" value="FightingStyle_Dueling;Stormlight_Healing"/>
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(49862341-f0f5-4c70-a6c1-4034ce9276eb,1,FightingStyle);SelectPassives(7bcc4823-2a4d-4a57-b867-69d9180de0a9,1,CrimsonRites)"/>
+                    <attribute id="Selectors" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
                     <attribute id="UUID" type="guid" value="9f32e526-efb6-42a3-8ecc-722cfd5b75b0"/>
-                </node>
-                <node id="Progression">
-                    <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Level" type="uint8" value="3"/>
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
-                    <attribute id="Name" type="LSString" value="Surgebinder"/>
-                    <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
-                    <attribute id="UUID" type="guid" value="af0ad4eb-2fd3-4f1d-9132-45626c8822ef"/>
                     <children>
                         <node id="SubClasses">
                             <children>
@@ -58,6 +49,15 @@
                             </children>
                         </node>
                     </children>
+                </node>
+                <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false"/>
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
+                    <attribute id="Name" type="LSString" value="Surgebinder"/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
+                    <attribute id="UUID" type="guid" value="af0ad4eb-2fd3-4f1d-9132-45626c8822ef"/>
                 </node>
                 <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true"/>
@@ -148,16 +148,16 @@
                 OrderOfWindrunners
 
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="86ad2834-fc93-45dd-8ec0-ee5d406ba230"/>
                     <attribute id="UUID" type="guid" value="ae8af1d1-17dc-41b6-ba03-742c8e297a90"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/> 
@@ -166,7 +166,7 @@
                     <attribute id="UUID" type="guid" value="97af1c8f-4e2d-4e89-abbe-a655da6f1f7a"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/> 
@@ -182,7 +182,7 @@
                 OrderOfEdgedancers
 
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
@@ -191,7 +191,7 @@
                     <attribute id="UUID" type="guid" value="7b8c81e1-b31a-46fd-babb-834e098ff474"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/> 
@@ -200,7 +200,7 @@
                     <attribute id="UUID" type="guid" value="9beb7905-4e74-48ce-951a-ddb8d0933552"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/> 
