@@ -1,6 +1,6 @@
 //// Spren-Bonded
 
-new entry "Target_SurgebinderBonded_Spren"
+new entry "SurgebinderBonded_Spren"
 type "SpellData"
 data "SpellType" "Target"
 data "Cooldown" "OncePerTurn"
@@ -95,7 +95,7 @@ type "PassiveData"
 data "DisplayName" "h06bd344dg73f2g4afag8f12g0dda245aa9f9"
 data "Description" "hae6aeb15g3893g40e2g8c0bg8e0e00e59daf"
 data "Icon" "Spell_Evocation_DancingLights"
-data "Boosts" "UnlockSpell(Target_SurgebinderBonded_Spren)"
+data "Boosts" "UnlockSpell(SurgebinderBonded_Spren)"
 data "Properties" "Hidden"
 
 // Spren Guidance
@@ -126,3 +126,14 @@ data "Boosts" "Advantage(SavingThrow,Intelligence);Advantage(SavingThrow,Wisdom)
 data "StatusGroups" ""
 data "ApplyEffect" "887e86db-a1a5-4ea2-8b96-e3195e66b24c"
 data "StatusEffect" "423ef553-a009-40d0-b110-1f5398b1b774"
+
+// Unsummon when Shardblade
+
+new entry "SHARDBLADE_SPREN_DISMISS"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "h6f2fbf73g1962g47f2g8af0g3c80ffb2fb32;1"
+data "RemoveConditions" "HasStatus('SG_Incapacitated',context.Source)"
+data "RemoveEvents" "OnSourceStatusApplied"
+data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
+data "OnRemoveFunctors" "Unsummon()"
