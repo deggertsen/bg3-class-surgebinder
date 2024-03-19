@@ -56,6 +56,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(Stormlight,5,0)"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SummonShardblade"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
                     <attribute id="UUID" type="guid" value="af0ad4eb-2fd3-4f1d-9132-45626c8822ef"/>
                 </node>
@@ -185,7 +186,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Edgedancer_FreedomOfMovement"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Edgedancer_FreedomOfMovement;LONGSTRIDER"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="7b8c81e1-b31a-46fd-babb-834e098ff474"/>
