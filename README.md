@@ -53,7 +53,7 @@ Haste
 
 ### Edgedancer
 #### lvl 2
-Permanant Freedom of Movement Condition
+Permanant Freedom of Movement Condition NEEDS TESTING
 Longstrider
 
 #### lvl 3
