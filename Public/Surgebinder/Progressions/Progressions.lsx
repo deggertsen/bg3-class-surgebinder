@@ -11,7 +11,7 @@
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
 					<attribute id="PassivesAdded" type="LSString" value="Passive_Surgebinder_Spren_Summon"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="SelectSkills(0e1468ec-0eec-4166-96ca-2f1e7f66772d,3)"/>
+                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(1bd1fb55-5e0e-4f9d-8c85-c9a1ba3666ab,AbilityBonus,2,1);SelectSkills(0e1468ec-0eec-4166-96ca-2f1e7f66772d,3)"/>
 					<attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/> 
                     <attribute id="UUID" type="guid" value="b85c5b64-347c-4ece-b45c-fe55a6fa2762"/>
                 </node>
