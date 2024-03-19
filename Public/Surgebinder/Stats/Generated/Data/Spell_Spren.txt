@@ -13,7 +13,7 @@ data "SpellProperties" "GROUND:Summon(ef14d339-8858-476b-9e50-237b53f42684,Perma
 data "CastSound" "Action_Cast_RangersCompanion"
 data "TargetSound" "Action_Impact_RangersCompanion"
 data "CastTextEvent" "VFX_Somatic_03"
-data "UseCosts" "ActionPoint:1"
+data "UseCosts" "BonusActionPoint:1"
 data "VerbalIntent" "Summon"
 data "SpellStyleGroup" "Class"
 data "SpellAnimation" "85f63b1e-1fe6-4228-863d-71f43a945b46,,;,,;551b8855-805c-45fa-973f-88df0cbe646a,,;394f93b4-106a-44e4-8e08-2feae2881df1,,;db52441a-8a80-4630-bcb8-0f220e1b8323,,;,,;f588875b-9a5f-4e05-ac41-3f3e73cdb4e4,,;,,;,,"
