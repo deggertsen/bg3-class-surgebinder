@@ -8,3 +8,133 @@ data "Conditions" "not HasMaxHP()"
 data "StatsFunctorContext" "OnTurn"
 data "StatsFunctors" "RegainHitPoints(ClassLevel(Surgebinder))"
 data "UseCosts" "Stormlight:1"
+
+new entry "SummonShardblade"
+type "PassiveData"
+data "DisplayName" "7kvpvtkd5zzydpyzo08nr4q446fq5waydjl9e"
+data "Description" "8r3669url66coqy4fguxzfw3cs0ti75pob89a"
+data "Icon" "PassiveFeature_PactOfTheBlad"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Shout_SummonShardblade)"
+
+new entry "Shout_SummonShardblade"
+type "SpellData"
+data "SpellType" "Shout"
+data "ContainerSpells" "Shout_SummonShardblade_Battleaxe;Shout_SummonShardblade_Glaive;Shout_SummonShardblade_Greatsword;Shout_SummonShardblade_Rapier;Shout_SummonShardblade_Trident;Shout_SummonShardblade_Warhammer"
+data "Cooldown" "OncePerCombat"
+data "TargetConditions" "Self()"
+data "Icon" "Skill_Warlock_PactOfTheBlad_BoundWeapon"
+// Pact of the Blade
+data "DisplayName" "h89f0b838g285fg4e72g8ce4gaf1e8ec5ac2c;2"
+// Summon a weapon to your hand. It uses the wielder's <LSTag Tooltip="SpellcastingAbilityModifier">Spellcasting Ability Modifier</LSTag>, and its damage is magical.
+data "Description" "h277c9a64g8300g419egbda7g62763b24ba72;6"
+// You are <LSTag Tooltip="Proficiency">Proficient</LSTag> with the weapon. You can only have one at a time. The weapon disappears if you are more than [1] away from it for more than 10 rounds.
+data "ExtraDescription" "h1ab7befbg47b0g4503g8bc7g6c5f736d2784;3"
+data "ExtraDescriptionParams" "Distance(1.5)"
+data "CastSound" "Action_Cast_PactOfTheBlad"
+data "CastTextEvent" "Cast"
+data "UseCosts" "ActionPoint:1"
+data "SpellAnimation" "f489d217-b699-4e8e-bf22-6ef539c5d65b,,;,,;7a343ea7-1330-428a-b0b1-9f6dc7f2a91c,,;0f872585-3c6e-4493-a0b5-5acc882b7aaf,,;f9414915-2da7-4f40-bcbd-90e956461246,,;,,;f2a62277-c87a-4ec7-b4f2-c3c37e6e30ae,,;,,;,,"
+data "VerbalIntent" "Summon"
+data "SpellStyleGroup" "Class"
+data "SpellFlags" "IsLinkedSpellContainer"
+data "SpellAnimationIntentType" "Aggressive"
+data "PrepareEffect" "d9038b21-f4cc-4c8a-99c1-6168e1fe46ba"
+data "CastEffect" "135cb448-04f9-4543-b670-7bebea4ae21d"
+data "Sheathing" "Sheathed"
+
+new entry "Shout_SummonShardblade_Warhammer"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_SummonShardblade"
+data "SpellContainerID" "Shout_SummonShardblade"
+data "SpellProperties" "SummonInInventory(fdaf8461-4d1a-4364-8d7d-4dd9ce824a1e,Permanent,1,true,true,true,,,PactBlade,PACT_BLADE)"
+data "Icon" "Action_PactOfTheBlad_Warhammer"
+// Pact of the Blade: Warhammer
+data "DisplayName" "hbaaf9ba2gf351g4884gb4b3gf1ed130401f6;2"
+// Summon a warhammer.
+data "Description" "h11871f4dg2ecag4e6egaccbgba8be8e8f8b5;2"
+data "SpellFlags" "UNUSED_D"
+
+new entry "Shout_SummonShardblade_Trident"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_SummonShardblade"
+data "SpellContainerID" "Shout_SummonShardblade"
+data "SpellProperties" "SummonInInventory(fd1b4c45-e2df-4add-bc56-697d0339c4bd,Permanent,1,true,true,true,,,PactBlade,PACT_BLADE)"
+data "Icon" "Action_PactOfTheBlad_Trident"
+// Pact of the Blade: Trident
+data "DisplayName" "hf1852c47gd1a5g41f0g94f6g346d6602ddfa;2"
+// Summon a trident.
+data "Description" "hd511b96dg7d57g428fga0c9g54b3c57819f6;2"
+data "SpellFlags" "UNUSED_D"
+
+new entry "Shout_SummonShardblade_Rapier"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_SummonShardblade"
+data "SpellContainerID" "Shout_SummonShardblade"
+data "SpellProperties" "SummonInInventory(705662e8-2a7f-4c7e-b0a0-e505395a45e3,Permanent,1,true,true,true,,,PactBlade,PACT_BLADE)"
+data "Icon" "Action_PactOfTheBlad_Rapier"
+// Pact of the Blade: Rapier
+data "DisplayName" "h6e740ca1g2d8cg4706g9e7dg596c2bfe832f;2"
+// Summon a rapier.
+data "Description" "hd19e0b8fg2efag46dbgb8dag5f677b193328;2"
+data "SpellFlags" "UNUSED_D"
+
+new entry "Shout_SummonShardblade_Greatsword"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_SummonShardblade"
+data "SpellContainerID" "Shout_SummonShardblade"
+data "SpellProperties" "SummonInInventory(e90936db-7f65-446c-819d-c7fc6ba44d6c,Permanent,1,true,true,true,,,PactBlade,PACT_BLADE)"
+data "Icon" "Action_PactOfTheBlad_Greatsword"
+// Pact of the Blade: Greatsword
+data "DisplayName" "h632db759ga520g4557g8b8fgaa94425ef157;2"
+// Summon a greatsword.
+data "Description" "h90525a20g8598g413fg88d5g58d801084afe;2"
+data "SpellFlags" "UNUSED_D"
+
+new entry "Shout_SummonShardblade_Glaive"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_SummonShardblade"
+data "SpellContainerID" "Shout_SummonShardblade"
+data "SpellProperties" "SummonInInventory(e7dab8bd-8037-4d8e-9c4e-ebec705912aa,Permanent,1,true,true,true,,,PactBlade,PACT_BLADE)"
+data "Icon" "Action_SummonShardblade_Glaive"
+// Pact of the Blade: Glaive
+data "DisplayName" "h03e92d7bg535fg4eb9g822ag626b86338e6f;2"
+// Summon a glaive.
+data "Description" "he5e1e0f1g74ebg4f2fgb9e1gfff1e7826fda;2"
+data "SpellFlags" "UNUSED_D"
+
+new entry "Shout_SummonShardblade_Battleaxe"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_SummonShardblade"
+data "SpellContainerID" "Shout_SummonShardblade"
+data "SpellProperties" "SummonInInventory(407954e3-71e4-4611-9221-0ba3ea71d6e8,Permanent,1,true,true,true,,,PactBlade,PACT_BLADE)"
+data "Icon" "Action_PactOfTheBlad_Battleaxe"
+// Pact of the Blade: Battleaxe
+data "DisplayName" "hdc0b632eg59e3g4fd9gaaadg7a7d7923e92b;2"
+// Summon a battleaxe.
+data "Description" "h24adf711g318dg4b66g82e4gf2213157d1f4;2"
+data "SpellFlags" "UNUSED_D"
+
+new entry "Shout_SummonShardblade_Dismiss"
+type "SpellData"
+data "SpellType" "Shout"
+data "Icon" "Skill_Warlock_DismissPactWeapon"
+// Dismiss Pact Weapon
+data "DisplayName" "h2bcf09c0gf15fg4d74g884ag5d9ea67df6a3;2"
+// Dismiss your pact weapon. 
+data "Description" "hca87ff3cgab18g41c5g8129g3cd43b866d64;2"
+// If you summoned it, it disappears. If you bound a weapon to you, it returns to its previous state.
+data "ExtraDescription" "hf799a6ffg1207g4472g9f81g11ddd5b46452;1"
+data "CastSound" "Action_Cast_DismissPactWeapon"
+data "CastTextEvent" "Cast"
+data "SpellAnimation" "f489d217-b699-4e8e-bf22-6ef539c5d65b,,;,,;7a343ea7-1330-428a-b0b1-9f6dc7f2a91c,,;0f872585-3c6e-4493-a0b5-5acc882b7aaf,,;f9414915-2da7-4f40-bcbd-90e956461246,,;,,;f2a62277-c87a-4ec7-b4f2-c3c37e6e30ae,,;,,;,,"
+data "VerbalIntent" "Utility"
+data "PrepareEffect" "31920fd1-c569-4325-be73-16431069d364"
+data "CastEffect" "a9d7947e-3c88-41c6-aec8-18ae408c366a"
+data "FollowUpOriginalSpell" "Target_SummonShardblade"
