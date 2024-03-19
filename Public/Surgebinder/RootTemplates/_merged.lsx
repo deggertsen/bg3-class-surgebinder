@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="51" />
+	<version major="1" minor="1" revision="1" build="9" />
 	<region id="Templates">
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="ha1ab46cfge77bg451dga482gb12711043d95" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hbb656f40g3141g4a3dga5d0g5ea6d4975b6a" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="de82bfea-ed10-4524-ad2c-b3afb71834ed" />
