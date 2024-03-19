@@ -36,6 +36,19 @@
 	<content contentuid="a0n1ikp5mln3sx3abxjzhb126txs821h0bhkf" version="1">Decrease Friction</content>
 	<content contentuid="3vil6mz3ouax1ol3f865toihwync8l975orzg" version="1">Use the Abrasion surge to decrease friction around you making you impossible to restrain or slowed down.</content>
 	
-	<content contentuid="7kvpvtkd5zzydpyzo08nr4q446fq5waydjl9e" version="1">Summon Shardblade</content>
-	<content contentuid="8r3669url66coqy4fguxzfw3cs0ti75pob89a" version="1">Summon your Shardblade.</content>
+	<content contentuid="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1">Shardblade</content>
+	<content contentuid="h33c58484gb6ddg422fg9f90g7259214c157a" version="1">Your Shardblade. The weapon's damage is magical.</content>
+
+	<content contentuid="hc9a54212gff64g453dg8c19gd7b60cc63c9b" version="1">Summon Shardblade</content>
+	<content contentuid="hf46b64adg213eg4c78gbb4cgaacde42603bd" version="1">Summon your Shardblade.</content>
+	<content contentuid="h0e76cf26g0e02g422fga796g13076eadfd9b" version="1">Summon Shardblade Warhammer</content>
+	<content contentuid="h8b358eaag06c8g469dgabc2g36b67b985740" version="1">Summon your Shardblade in the form of a Warhammer.</content>
+	<content contentuid="h85d31876g0249g4b67g83c3gbfa1ac2f0d23" version="1">Summon Shardblade Greatsword</content>
+	<content contentuid="h765007a7g56e6g40c5ga8c0g5500ce8911b7" version="1">Summon your Shardblade in the form of a Greatsword.</content>
+	<content contentuid="h3909952agdb6fg4b8agac70gdfe3ee11e84e" version="1">Summon Shardblade Glaive</content>
+	<content contentuid="hc7ee3f6egdaefg4090g8f72g265ad867f8b4" version="1">Summon your Shardblade in the form of a Glaive.</content>
+	<content contentuid="hef55d7f9g52e5g4a97g922bg53d921fcb7c1" version="1">Summon Shardblade Battleaxe</content>
+	<content contentuid="h5f09f8a2g5567g4f14g9850gd2f017ad928a" version="1">Summon your Shardblade in the form of a Battleaxe.</content>
+	<content contentuid="h7e45be41gac68g4fbcg91c1gd8cb458d25f9" version="1">Dismiss Shardblade</content>
+	<content contentuid="h650784f4g74e4g4827ga912g4ee75c445e3e" version="1">Dismiss your Shardblade.</content>
 </contentList>

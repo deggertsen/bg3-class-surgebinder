@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="51" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="ha1ab46cfge77bg451dga482gb12711043d95" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hbb656f40g3141g4a3dga5d0g5ea6d4975b6a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="de82bfea-ed10-4524-ad2c-b3afb71834ed" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Warhammer_Pact" />
+					<attribute id="ParentTemplateId" type="FixedString" value="3e1b3db9-036e-4931-ab92-c3730a1c3d5f" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="6bb18eb2-5a66-4a54-744b-f1d286c39c19" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_Warhammer_Shardblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="8db023b7-8ea6-dc0c-9478-2edfa697d0c3" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="be460271-537a-4443-a9b5-6c6c6a005ab3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h1d15ff66g65a1g4ef4g8285ga119cb6dfefa" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h04b17f17g5309g459fg97a3g7d1eba9be759" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0244c59d-6979-44d1-b8ea-cd3d7df2c08f" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Greatsword_Pact" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1a2a58b7-4bd5-44d5-b1fe-8cd7e5b53def" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="406a5b2c-1f47-1927-5e2b-1993ec95fce5" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_Greatsword_Shardblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3ebf516f-2ad5-8225-f8ca-3124c016a97b" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="be460271-537a-4443-a9b5-6c6c6a005ab3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="ha62fb14eg1b42g47f8gaaaagcd919878bc9e" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h8159297bg3312g4070gb910ga8d8dd4ef4f0" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Glaive_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="e0c202d3-e55c-4cc7-85ec-ebb7b9acfc76" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Glaive_Pact" />
+					<attribute id="ParentTemplateId" type="FixedString" value="15d2830c-ac76-4b5b-969d-05197875b1c2" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="6be7edb7-32fa-5df4-b3e7-84ea9ad5540a" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_Glaive_Shardblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d955257f-a31f-02e4-e6de-2e38feaa2cc2" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="be460271-537a-4443-a9b5-6c6c6a005ab3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h1f8d3bcegded0g412cg84c7g58f854bda933" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hfee6615dg9191g45fdg9a1fg9d7060f14d73" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Battleaxe_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="6202367e-14c2-4217-aee8-53f59ae1bd53" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Battleaxe_Pact" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c17ee133-cbb5-418f-88be-5ef27991cf50" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="1b25ac78-7c94-15fb-a5ee-c42eeae95717" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_Battleaxe_Shardblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="fd92c725-5ad4-7259-153e-5b3eca1f9fa9" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.22952 0.0561219 0.273765" />
+									<attribute id="Min" type="fvec3" value="-0.242383 0 -0.669429" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.22952 0.0561219 0.273765" />
+									<attribute id="Min" type="fvec3" value="-0.242383 0 -0.669429" />
+									<attribute id="Radius" type="float" value="0.182241" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.0483273" />
+									<attribute id="Max" type="fvec3" value="0.11476 0.0561219 0.1368825" />
+									<attribute id="Min" type="fvec3" value="-0.1211915 0 -0.3347145" />
+									<attribute id="Radius" type="float" value="0.0911205" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="be460271-537a-4443-a9b5-6c6c6a005ab3" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
