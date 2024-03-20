@@ -24,3 +24,11 @@ data "MemoryCost" "1"
 data "PrepareEffect" "33302a46-4a12-41dd-8845-6b7314d50022"
 data "CastEffect" "bcd66fb0-b0bc-41d0-abba-ad443d63dd72"
 data "TargetEffect" "32d71967-b080-4ac9-a1cf-c2829839bd90"
+
+new entry "Edgedancer_Dash"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Dash_BonusAction"
+// Cunning Action: Dash
+// data "DisplayName" "hca05588dgfa78g469agaeaag31c022d47105;1"
+data "SpellFlags" "IgnoreSilence;Stealth;Invisible;NoCameraMove"

@@ -53,8 +53,8 @@ Haste
 
 ### Edgedancer
 #### lvl 2
-Permanant Freedom of Movement Condition NEEDS TESTING
-Longstrider
+Freedom of Movement (bonus action) NEEDS TESTING
+Decrease Wind Friction (Dash bonus action) NEEDS TESTING
 
 #### lvl 3
 Cure Wounds

@@ -186,7 +186,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Edgedancer_FreedomOfMovement;LONGSTRIDER"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Edgedancer_FreedomOfMovement;Edgedancer_Dash"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="7b8c81e1-b31a-46fd-babb-834e098ff474"/>
