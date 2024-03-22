@@ -7,7 +7,7 @@ Oaths can be broken similar to paladin devotion. Oath breakers lose access to st
 #### lvl 1
 Find familiar (spren) DONE
 * Spren grants advantage on all Intelligence, Wisdom, and Charisma saving throws DONE
-* Has no strenth, but high dexterity and constitution DONE
+* Has no strength, but high dexterity and constitution DONE
 
 #### lvl 2
 * Choose subclass (radiant order) DONE
@@ -15,7 +15,7 @@ Find familiar (spren) DONE
 * Stormlight healing DONE
 
 #### lvl 3
-Summon Shardblade (1 turn + 1 turn per level? Dismisses summoned familiar?)
+Summon Shardblade (Dismisses summoned familiar?) IN PROGRESS
 
 #### lvl 5
 Extra Attack
