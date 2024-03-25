@@ -35,8 +35,8 @@
 	<content contentuid="h4543d87dg031fg40b0gb6a0gcbc3c137416f" version="1">Surge Bind Person</content>
 	<content contentuid="h1a1af2a8g0ef6g4f4bg898dgf2224033c775" version="1">Bind an enemy still. They can't move, act or react. Attacks from within [1] are always &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;.</content>
 	
-	<content contentuid="a0n1ikp5mln3sx3abxjzhb126txs821h0bhkf" version="1">Decrease Friction</content>
-	<content contentuid="3vil6mz3ouax1ol3f865toihwync8l975orzg" version="1">Use the Abrasion surge to decrease friction around you making you impossible to restrain or slowed down.</content>
+	<content contentuid="ha97ae75cgef03g4374g9c9ag4c2a6119f754" version="1">Decrease Friction</content>
+	<content contentuid="h58b6cfa7gef39g4805gb03ag9fb473c65c5d" version="1">Use the Abrasion surge to decrease friction around you making you impossible to restrain or slowed down.</content>
 	
 	<content contentuid="h4fd12e18g909ag42dcg8e30g87c6bd18b125" version="1">Decrease Wind Friction</content>
 	<content contentuid="h8db27e65gf031g4349g8090gd4d2343a7a0b" version="1">Use the Abrasion surge to reduce wind friction to travel long distances at considerable speeds.</content>
