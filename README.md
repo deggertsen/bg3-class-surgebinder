@@ -18,10 +18,10 @@ Find familiar (spren) DONE
 Summon Shardblade (Dismisses summoned familiar?) IN PROGRESS
 
 #### lvl 5
-Extra Attack
+Extra Attack DONE
 
 #### lvl 6
-Summon shardplate (similar to Shar's Aegis, but much stronger and consumes stormlight per turn)
+Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes stormlight per turn)
 
 ## Sub Classes
 ### Windrunner
