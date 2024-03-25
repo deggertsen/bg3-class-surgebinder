@@ -5,8 +5,8 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<!-- <attribute id="Description" type="TranslatedString" handle="h272b5159gff05g43b1g98f1g6c5e5f3c920a" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h44aeccefgef1cg4cb1gae86g668848e041d9" version="1" /> -->
+					<attribute id="DisplayName" type="TranslatedString" handle="h94276812g66d7g4bd8ga1afgb0fb725ffb65" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ha5c97909g5f02g4c79g9219g4a8cc6db0e05" version="1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="ce5f1505-b13c-47da-bebb-826aa970592e" />
 					<attribute id="Name" type="LSString" value="MAG_EndGame_HalfPlate" />

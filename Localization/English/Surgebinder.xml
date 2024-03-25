@@ -54,4 +54,12 @@
 	<content contentuid="h5f09f8a2g5567g4f14g9850gd2f017ad928a" version="1">Summon your Shardblade in the form of a Battleaxe.</content>
 	<content contentuid="h7e45be41gac68g4fbcg91c1gd8cb458d25f9" version="1">Dismiss Shardblade</content>
 	<content contentuid="h650784f4g74e4g4827ga912g4ee75c445e3e" version="1">Dismiss your Shardblade.</content>
+	
+	<content contentuid="h94276812g66d7g4bd8ga1afgb0fb725ffb65" version="1">Shardplate</content>
+	<content contentuid="ha5c97909g5f02g4c79g9219g4a8cc6db0e05" version="1">Shardplate is an ancient and magical type of full-body armor normally only found on Roshar.</content>
+	
+	<content contentuid="ha971b89fg5a17g4fd9g9faag26b0fd23b7f3" version="1">Summon Shardplate</content>
+	<content contentuid="he6ae3eb1g2c13g4a17ga2c7g4bd5f08ac1ae" version="1">Summon your Shardplate.</content>
+	<content contentuid="h8fe6ac6eg1babg40bfg8754g328cf12277a0" version="1">Dismiss Shardplate</content>
+	<content contentuid="h7cb19666g0c09g4716g9035g1d0746ffdea7" version="1">Dismiss your Shardplate.</content>
 </contentList>
