@@ -36,8 +36,8 @@
 	<content contentuid="a0n1ikp5mln3sx3abxjzhb126txs821h0bhkf" version="1">Decrease Friction</content>
 	<content contentuid="3vil6mz3ouax1ol3f865toihwync8l975orzg" version="1">Use the Abrasion surge to decrease friction around you making you impossible to restrain or slowed down.</content>
 	
-	<!-- <content contentuid="a0n1ikp5mln3sx3abxjzhb126txs821h0bhkf" version="1">Decrease Wind Friction</content>
-	<content contentuid="3vil6mz3ouax1ol3f865toihwync8l975orzg" version="1">Reduce wind friction to travel long distances at considerable speeds.</content> -->
+	<content contentuid="h4fd12e18g909ag42dcg8e30g87c6bd18b125" version="1">Decrease Wind Friction</content>
+	<content contentuid="h8db27e65gf031g4349g8090gd4d2343a7a0b" version="1">Use the Abrasion surge to reduce wind friction to travel long distances at considerable speeds.</content>
 	
 	<content contentuid="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1">Shardblade</content>
 	<content contentuid="h33c58484gb6ddg422fg9f90g7259214c157a" version="1">Your Shardblade. The weapon's damage is magical. A Shardblade is a powerful weapon capable of severing souls.</content>

@@ -29,6 +29,6 @@ new entry "Edgedancer_Dash"
 type "SpellData"
 data "SpellType" "Shout"
 using "Shout_Dash_BonusAction"
-// Cunning Action: Dash
-// data "DisplayName" "hca05588dgfa78g469agaeaag31c022d47105;1"
+data "DisplayName" "h4fd12e18g909ag42dcg8e30g87c6bd18b125"
+data "Description" "h8db27e65gf031g4349g8090gd4d2343a7a0b"
 data "SpellFlags" "IgnoreSilence;Stealth;Invisible;NoCameraMove"
