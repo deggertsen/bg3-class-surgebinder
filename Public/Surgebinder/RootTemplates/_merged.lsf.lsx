@@ -14,15 +14,6 @@
 					<attribute id="Stats" type="FixedString" value="Shardplate" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
-					<children>
-						<node id="Tags">
-							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
-								</node>
-							</children>
-						</node>
-					</children>
 				</node>
 				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
