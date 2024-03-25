@@ -21,23 +21,22 @@ Summon Shardblade (Dismisses summoned familiar?) IN PROGRESS
 Extra Attack DONE
 
 #### lvl 6
-Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes stormlight per turn)
+Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes Stormlight per turn) IN PROGRESS
 
 ## Sub Classes
 ### Windrunner
 #### lvl 2
-Deflect missiles (similar ability to missile snaring but consumes stormlight) DONE
+Deflect missiles (similar ability to missile snaring but consumes Stormlight) DONE
 
 #### lvl 3
-Gust of wind
-
-Surge bind person (like hold person except you have to be melee range and consumes storm light per turn you bind them)
+Surge bind person (like hold person except you have to be melee range and consumes storm light per turn you bind them) NEEDS TESTING
 
 #### lvl 4
 Feather fall ritual
 
 #### lvl 5
 Ride the Winds
+Gust of wind?
 
 #### lvl 6
 Wind Walk
@@ -46,7 +45,7 @@ Wind Walk
 Fly
 
 #### lvl 8
-Cleave that can be used with stormlight
+Cleave that can be used with Stormlight
 
 #### lvl 9
 Haste

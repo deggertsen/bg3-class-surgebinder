@@ -162,7 +162,7 @@
                     <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/> 
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Unlock_SurgeBindPerson"/>
                     <attribute id="TableUUID" type="guid" value="86ad2834-fc93-45dd-8ec0-ee5d406ba230"/>
                     <attribute id="UUID" type="guid" value="97af1c8f-4e2d-4e89-abbe-a655da6f1f7a"/>
                 </node>
