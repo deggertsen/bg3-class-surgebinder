@@ -5,6 +5,26 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h94276812g66d7g4bd8ga1afgb0fb725ffb65" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ha5c97909g5f02g4c79g9219g4a8cc6db0e05" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ce5f1505-b13c-47da-bebb-826aa970592e" />
+					<attribute id="Name" type="LSString" value="MAG_EndGame_HalfPlate" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4a712833-fe5c-4780-bc56-620972336eda" />
+					<attribute id="Stats" type="FixedString" value="Shardplate" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="983087c8-c9d3-4a87-bc69-65f9329666c8" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
