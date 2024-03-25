@@ -126,15 +126,3 @@ data "Boosts" "Advantage(SavingThrow,Intelligence);Advantage(SavingThrow,Wisdom)
 data "StatusGroups" ""
 data "ApplyEffect" "887e86db-a1a5-4ea2-8b96-e3195e66b24c"
 data "StatusEffect" "423ef553-a009-40d0-b110-1f5398b1b774"
-
-// Unsummon when Shardblade
-
-new entry "SHARDBLADE_SPREN_DISMISS"
-type "StatusData"
-data "StatusType" "BOOST"
-data "DisplayName" "h6f2fbf73g1962g47f2g8af0g3c80ffb2fb32;1"
-data "RemoveConditions" "HasStatus('SG_Incapacitated',context.Source)"
-data "RemoveEvents" "OnSourceStatusApplied"
-data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
-data "OnRemoveFunctors" "Unsummon()"
-// data "OnApplyFunctors" "Unsummon()"
