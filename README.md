@@ -29,7 +29,7 @@ Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes Storm
 Deflect missiles (similar ability to missile snaring but consumes Stormlight) DONE
 
 #### lvl 3
-Surge bind person (like hold person except you have to be melee range and consumes storm light per turn you bind them) NEEDS TESTING
+Surge bind person (like hold person except you have to be melee range and consumes storm light per turn you bind them) DONE
 
 #### lvl 4
 Feather fall ritual
