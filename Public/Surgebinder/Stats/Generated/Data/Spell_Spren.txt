@@ -39,23 +39,6 @@ data "DisplayName" "hfc0150f3ge7d1g4f64gb9d2gdda15ae7a60a;2"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator"
 data "StatusGroups" "SG_RemoveOnRespec"
 
-new entry "Passive_Surgebinder_Spren_PPoints_1"
-type "PassiveData"
-data "Properties" "IsHidden"
-
-new entry "Passive_Surgebinder_Spren_PPoints_2"
-type "PassiveData"
-data "Properties" "IsHidden"
-
-new entry "Passive_Surgebinder_Spren_PPoints_3"
-type "PassiveData"
-data "Properties" "IsHidden"
-
-new entry "Passive_Surgebinder_Spren_PPoints_4"
-type "PassiveData"
-data "Properties" "IsHidden"
-
-
 //// Spren Appearance
 
 new entry "SB_SPREN_DEFAULT_VFX"
