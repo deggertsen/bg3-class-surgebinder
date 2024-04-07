@@ -33,8 +33,8 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Surgebinder"/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="PassivesAdded" type="LSString" value="FightingStyle_Dueling;Stormlight_Lethargy;Stormlight_Healing"/>
-                    <attribute id="Selectors" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Stormlight_Lethargy;Stormlight_Healing"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(c5d1dbb8-8672-4f10-a0e4-5257941110fc,1,FightingStyle)"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
                     <attribute id="UUID" type="guid" value="9f32e526-efb6-42a3-8ecc-722cfd5b75b0"/>
                     <children>
