@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="9" build="330" lslib_meta="v1,bswap_guids" />
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids" />
 	<region id="Templates">
 		<node id="Templates">
 			<children>
@@ -48,6 +48,9 @@
 					<attribute id="Archetype" type="FixedString" value="beast" />
 					<attribute id="Scale" type="float" value="0.33" />
 					<children>
+						<node id="Tags">
+							<attribute id="Object" type="guid" value="df4f2510-59bf-4993-a300-38c303e6c992" />
+						</node>
 						<node id="Bounds">
 							<children>
 								<node id="Bound">
@@ -144,10 +147,13 @@
 						<node id="StatusList">
 							<children>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="SB_SPREN_DEFAULT_VFX" />
+									<attribute id="Object" type="FixedString" value="GHOST_FX" />
 								</node>
 								<node id="Status">
-									<attribute id="Object" type="FixedString" value="SB_SPREN_DEFAULT_VFX_2" />
+									<attribute id="Object" type="FixedString" value="DISINTEGRATE_DEATH" />
+								</node>
+								<node id="Status">
+									<attribute id="Object" type="FixedString" value="LOW_POLTERGEIST_INVISIBLE" />
 								</node>
 								<node id="Status">
 									<attribute id="Object" type="FixedString" value="SEE_INVISIBILITY" />
