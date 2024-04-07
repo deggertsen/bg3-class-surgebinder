@@ -15,12 +15,12 @@ Find familiar (spren) DONE
 * Stormlight healing DONE
 
 #### lvl 3
-Summon Shardblade (Dismisses summoned familiar?) IN PROGRESS
+Summon Shardblade DONE
 
 #### lvl 5
 Extra Attack DONE
 
-#### lvl 6
+#### lvl 8
 Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes Stormlight per turn) IN PROGRESS
 
 ## Sub Classes
@@ -29,7 +29,7 @@ Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes Storm
 Deflect missiles (similar ability to missile snaring but consumes Stormlight) DONE
 
 #### lvl 3
-Surge bind person (like hold person except you have to be melee range and consumes storm light per turn you bind them) DONE
+Gravitational Imprisonment (like hold person except you have to be melee range and consumes storm light per turn you bind them) DONE
 
 #### lvl 4
 Feather fall ritual
@@ -43,6 +43,7 @@ Wind Walk
 
 #### lvl 7
 Fly
+Launch
 
 #### lvl 8
 Cleave that can be used with Stormlight
