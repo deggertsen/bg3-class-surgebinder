@@ -26,6 +26,9 @@
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="6d85ab2d-5c23-498c-a61e-98f05a00177a"/> Dialogue tag Paladin
                         </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="861a506b-d2d0-4ca6-8e57-1bdde1650755"/>
+                        </node>
                     </children>
                 </node>
 				<node id="ClassDescription"> Subclass
