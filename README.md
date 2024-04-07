@@ -43,13 +43,14 @@ Wind Walk
 
 #### lvl 7
 Fly
-Launch
+Launch NEEDS TESTING
 
 #### lvl 8
 Cleave that can be used with Stormlight
 
 #### lvl 9
 Haste
+Tie Up
 
 ### Edgedancer
 #### lvl 2
