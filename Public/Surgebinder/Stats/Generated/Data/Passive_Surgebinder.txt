@@ -1,3 +1,9 @@
+new entry "Stormlight_Lethargy"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "StatsFunctorContext" "OnCast;OnActionResourcesChanged;OnCreate"
+data "StatsFunctors" "IF(not HasActionResource('Stormlight', 1, 0, false, true, context.Source) and not HasStatus('HASTE_LETHARGY')):ApplyStatus(SELF,HASTE_LETHARGY,100,1)"
+
 new entry "Stormlight_Healing"
 type "PassiveData"
 data "DisplayName" "h5fa82bf3g2af4g4e64gbf5bg3d1c086d247d"
@@ -8,3 +14,4 @@ data "Conditions" "not HasMaxHP()"
 data "StatsFunctorContext" "OnTurn"
 data "StatsFunctors" "RegainHitPoints(ClassLevel(Surgebinder))"
 data "UseCosts" "Stormlight:1"
+
