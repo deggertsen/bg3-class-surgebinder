@@ -50,6 +50,9 @@
 					<attribute id="Archetype" type="FixedString" value="beast" />
 					<attribute id="Scale" type="float" value="0.33" />
 					<children>
+						<node id="Tags">
+                            <attribute id="Object" type="guid" value="df4f2510-59bf-4993-a300-38c303e6c992" />
+                        </node>
 						<node id="Bounds">
 							<children>
 								<node id="Bound">
