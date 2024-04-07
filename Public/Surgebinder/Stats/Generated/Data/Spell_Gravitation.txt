@@ -54,9 +54,9 @@ data "RemoveEvents" "OnStatusRemoved"
 data "StatusGroups" "SG_Incapacitated;SG_Condition;SG_Paralyzed"
 data "OnApplyFunctors" "BreakConcentration()"
 
-// Launch
+// Gravitational Launch
 
-new entry "Throw_Launch"
+new entry "Gravitational_Launch"
 type "SpellData"
 data "SpellType" "Throw"
 using "Throw_Telekinesis"
