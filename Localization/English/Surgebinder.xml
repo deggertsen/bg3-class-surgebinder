@@ -36,6 +36,8 @@
 	<content contentuid="h1a1af2a8g0ef6g4f4bg898dgf2224033c775" version="1">Bind an enemy in place. They can't move, act or react. Attacks from within [1] are always &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;.</content>
 	<content contentuid="h3e7dd9aag84e8g4217g9a7cg8bd28bfa3bd2" version="1">Gravitational pull</content>
 	<content contentuid="h15b49065g70b0g471fg84e9g3f0a99ff5e7a" version="1">You are being pulled by gravity and may fall.</content>
+	<content contentuid="h56b593a6g60e5g43bdga218gb6c487bf0b5f" version="1">Gravitational Launch</content>
+	<content contentuid="h423639b6gdf0cg455cg8a2cg69233a2305a6" version="1">You touch a creature or an object inflicting them with a strong force that launches them in the air.</content>
 
 	<content contentuid="ha97ae75cgef03g4374g9c9ag4c2a6119f754" version="1">Decrease Friction</content>
 	<content contentuid="h58b6cfa7gef39g4805gb03ag9fb473c65c5d" version="1">Use the Abrasion surge to decrease friction around you making you impossible to restrain or slowed down.</content>
