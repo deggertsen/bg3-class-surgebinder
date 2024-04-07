@@ -2,7 +2,7 @@
 This is currently a work in progress. I'm new to modding so any suggestions or pull requests would be welcome!
 
 # Plans
-Oaths can be broken similar to paladin devotion. Oath breakers lose access to stormlight.
+Oaths can be broken similar to paladin devotion. Oath breakers lose access to stormlight (but then get what instead? Need to think of something here if this is to be done).
 
 #### lvl 1
 Find familiar (spren) DONE
