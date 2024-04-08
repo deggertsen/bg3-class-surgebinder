@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Dexterity;Wisdom"/>
+                    <attribute id="Add" type="LSString" value="Strength;Wisdom"/>
                     <attribute id="Level" type="int32" value="1"/>
                     <attribute id="SelectorId" type="LSString" value="AbilityBonus"/>
                     <attribute id="TableUUID" type="guid" value="da13d37c-9f76-4108-8433-11519c04f9d5"/>
