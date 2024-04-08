@@ -140,18 +140,42 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Rapier_A_1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="99754a28-2278-418f-a3b6-398514b5b7f7" />
+					<attribute id="Name" type="LSString" value="WPN_HUM_Rapier_Shardblade" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5a6cea10-b3f6-4370-8eed-0b69b4ba531a" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c8a89cc2-7213-40d6-f0a0-c0a9d7a26de1" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="WPN_Rapier_Shardblade" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d88ec5c6-e76e-c73c-8260-936ab342b1dd" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="ca4607e0-3b23-41b2-96d7-4411903062af" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 				<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
 				<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
-				<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Rapier_A_1" />
+				<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Spear_A_1" />
 				<attribute id="LevelName" type="FixedString" value="" />
-				<attribute id="MapKey" type="FixedString" value="99754a28-2278-418f-a3b6-398514b5b7f7" />
-				<attribute id="Name" type="LSString" value="WPN_HUM_Rapier_Shardblade" />
-				<attribute id="ParentTemplateId" type="FixedString" value="5a6cea10-b3f6-4370-8eed-0b69b4ba531a" />
-				<attribute id="PhysicsTemplate" type="FixedString" value="c8a89cc2-7213-40d6-f0a0-c0a9d7a26de1" />
+				<attribute id="MapKey" type="FixedString" value="688e2b55-ca0e-4c77-a293-3d240c5352a0" />
+				<attribute id="Name" type="LSString" value="WPN_HUM_Spear_Shardblade" />
+				<attribute id="ParentTemplateId" type="FixedString" value="9f0f1c0e-012d-44e1-9b29-86c64d2bf675" />
+				<attribute id="PhysicsTemplate" type="FixedString" value="1510539e-fe3e-f00e-4ae8-7d63af62f880" />
 				<attribute id="ReadinessFlags" type="uint32" value="128" />
-				<attribute id="Stats" type="FixedString" value="WPN_Rapier_Shardblade" />
+				<attribute id="Stats" type="FixedString" value="WPN_Spear_Shardblade" />
 				<attribute id="Type" type="FixedString" value="item" />
-				<attribute id="VisualTemplate" type="FixedString" value="d88ec5c6-e76e-c73c-8260-936ab342b1dd" />
+				<attribute id="VisualTemplate" type="FixedString" value="af7ce227-b222-33f9-3ef2-d276d3d0edc6" />
 				<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
 				<children>
 					<node id="Tags">
