@@ -4,6 +4,8 @@ This is currently a work in progress. I'm new to modding so any suggestions or p
 # Plans
 Oaths can be broken similar to paladin devotion. Oath breakers lose access to stormlight (but then get what instead? Need to think of something here if this is to be done. This mod might help https://www.nexusmods.com/baldursgate3/mods/6493).
 
+To add a custom icon for Stormlight we could follow this guide: https://docs.google.com/document/d/18JMDanoAUNg0uwU2GhA0pPekvGSuqIDJNDMHUOHZIT8/edit#heading=h.4ga291m924cz
+
 #### lvl 1
 Find familiar (spren) DONE
 * Spren grants advantage on all Intelligence, Wisdom, and Charisma saving throws DONE
