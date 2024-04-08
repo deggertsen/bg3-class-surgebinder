@@ -16,8 +16,8 @@
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209032" />
 				</node>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_WarHammer_A_1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="de82bfea-ed10-4524-ad2c-b3afb71834ed" />
@@ -40,8 +40,8 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="h1d15ff66g65a1g4ef4g8285ga119cb6dfefa" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h04b17f17g5309g459fg97a3g7d1eba9be759" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_A_1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="0244c59d-6979-44d1-b8ea-cd3d7df2c08f" />
@@ -64,8 +64,8 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="ha62fb14eg1b42g47f8gaaaagcd919878bc9e" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="h8159297bg3312g4070gb910ga8d8dd4ef4f0" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Glaive_A_1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="e0c202d3-e55c-4cc7-85ec-ebb7b9acfc76" />
@@ -88,8 +88,8 @@
 					</children>
 				</node>
 				<node id="GameObjects">
-					<attribute id="Description" type="TranslatedString" handle="h1f8d3bcegded0g412cg84c7g58f854bda933" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="hfee6615dg9191g45fdg9a1fg9d7060f14d73" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Battleaxe_A_1" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="6202367e-14c2-4217-aee8-53f59ae1bd53" />
@@ -139,6 +139,30 @@
 						</node>
 					</children>
 				</node>
+				<node id="GameObjects">
+				<attribute id="DisplayName" type="TranslatedString" handle="h66d495b3gf935g4eddg981fg80a6fd9df0d7" version="1" />
+				<attribute id="Description" type="TranslatedString" handle="h33c58484gb6ddg422fg9f90g7259214c157a" version="1" />
+				<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Rapier_A_1" />
+				<attribute id="LevelName" type="FixedString" value="" />
+				<attribute id="MapKey" type="FixedString" value="99754a28-2278-418f-a3b6-398514b5b7f7" />
+				<attribute id="Name" type="LSString" value="WPN_HUM_Rapier_Shardblade" />
+				<attribute id="ParentTemplateId" type="FixedString" value="5a6cea10-b3f6-4370-8eed-0b69b4ba531a" />
+				<attribute id="PhysicsTemplate" type="FixedString" value="c8a89cc2-7213-40d6-f0a0-c0a9d7a26de1" />
+				<attribute id="ReadinessFlags" type="uint32" value="128" />
+				<attribute id="Stats" type="FixedString" value="WPN_Rapier_Shardblade" />
+				<attribute id="Type" type="FixedString" value="item" />
+				<attribute id="VisualTemplate" type="FixedString" value="d88ec5c6-e76e-c73c-8260-936ab342b1dd" />
+				<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209024" />
+				<children>
+					<node id="Tags">
+						<children>
+							<node id="Tag">
+								<attribute id="Object" type="guid" value="ca4607e0-3b23-41b2-96d7-4411903062af" />
+							</node>
+						</children>
+					</node>
+				</children>
+			</node>
 			</children>
 		</node>
 	</region>
