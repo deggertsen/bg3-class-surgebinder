@@ -54,6 +54,14 @@ data "RemoveEvents" "OnStatusRemoved"
 data "StatusGroups" "SG_Incapacitated;SG_Condition;SG_Paralyzed"
 data "OnApplyFunctors" "BreakConcentration()"
 
+new entry "Passive_Unlock_Gravitation_FeatherFall"
+type "PassiveData"
+data "DisplayName" "ha954c1d2g1153g4859g8aa5gfaa6970764a6"
+data "Description" "h5bbabb54g39cfg4782gab48g486bb4821246"
+data "Icon" "Spell_Transmutation_FeatherFall"
+data "Boosts" "UnlockSpell(Shout_Gravitation_FeatherFall)"
+data "Properties" "Hidden"
+
 new entry "Shout_Gravitation_FeatherFall"
 type "SpellData"
 data "SpellType" "Shout"
@@ -82,6 +90,14 @@ data "TargetEffect" "c93e451d-fff8-4e92-aeff-d0b03faaa848"
 data "RitualCosts" "ActionPoint:1;Stormlight:1"
 
 // Gravitational Launch
+
+new entry "Passive_Unlock_Gravitational_Launch"
+type "PassiveData"
+data "DisplayName" "h56b593a6g60e5g43bdga218gb6c487bf0b5f"
+data "Description" "h423639b6gdf0cg455cg8a2cg69233a2305a6"
+data "Icon" "Spell_Transmutation_Telekinesis"
+data "Boosts" "UnlockSpell(Gravitational_Launch)"
+data "Properties" "Hidden"
 
 new entry "Gravitational_Launch"
 type "SpellData"
