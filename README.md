@@ -34,7 +34,7 @@ Deflect missiles (similar ability to missile snaring but consumes Stormlight) DO
 Gravitational Imprisonment (like hold person except you have to be melee range and consumes storm light per turn you bind them) DONE
 
 #### lvl 4
-Feather fall ritual
+Deny Gravity passive - You gain a +1 bonus to movement speed, jump distance and immunity to falling damage
 
 #### lvl 5
 Ride the Winds
