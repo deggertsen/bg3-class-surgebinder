@@ -31,10 +31,10 @@ Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes Storm
 Deflect missiles (similar ability to missile snaring but consumes Stormlight) DONE
 
 #### lvl 3
-Gravitational Imprisonment (like hold person except you have to be melee range and consumes storm light per turn you bind them) DONE
+Gravitational Imprisonment (like hold person except you have to be melee range and consumes storm light to bind them) DONE
 
 #### lvl 4
-Deny Gravity passive - You gain a +1 bonus to movement speed, jump distance and immunity to falling damage
+Deny Gravity - You gain a bonus to movement speed, jump distance and immunity to falling damage
 
 #### lvl 5
 Ride the Winds
