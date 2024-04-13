@@ -92,6 +92,41 @@ data "DescriptionParams" "Distance(3)"
 data "Boosts" "UnlockSpell(Shout_Deny_Gravity)"
 data "Properties" "Hidden"
 
+// Ride the winds
+
+new entry "Shout_Ride_The_Winds"
+type "SpellData"
+data "SpellType" "Shout"
+using "Shout_Enlarge_Duergar"
+data "Cooldown" "OncePerRestPerItem"
+data "SpellProperties" "ApplyStatus(GASEOUS_FORM,100,10)"
+data "Icon" "Spell_Transmutation_GaseousForm"
+// Ride the Winds
+data "DisplayName" "hd0b1a8cega1aeg4517g8f3bgb69d87a3fe77;2"
+// Transform into a cloud, becoming <LSTag Tooltip="Resistant">Resistant</LSTag> to all damage, gains <LSTag Tooltip="Advantage">Advantage</LSTag> on Constitution, Dexterity, and Strength <LSTag Tooltip="SavingThrow">Saving Throws</LSTag>, and tiny in size.
+data "Description" "h5d0fa563gdd24g4f6fga280g47ec7e43e4eb;2"
+data "TooltipStatusApply" "ApplyStatus(GASEOUS_FORM,100,10)"
+data "TooltipPermanentWarnings" "bf3777a5-6a0c-4737-b0c7-ed878d3df950"
+data "PrepareSound" "Spell_Prepare_Buff_Gen_L1to3_01"
+data "PrepareLoopSound" "Spell_Prepare_Buff_Gen_L1to3_01_Loop"
+data "CastSound" "Spell_Cast_Buff_GaseousForm_L1to3"
+data "TargetSound" "Spell_Impact_Buff_GaseousForm_L1to3"
+data "VocalComponentSound" "Vocal_Component_PolymorphGeneric"
+data "SpellAnimation" "dd86aa43-8189-4d9f-9a5c-454b5fe4a197,,;,,;94ad1609-9862-499a-8337-5e6a7d9487f9,c8f325f3-9d7d-4387-af85-b3b4257e26cc,f4b7eabd-2875-46fa-bae3-9f4d0a51c955;8373f3da-2368-4a51-98b1-146ec3586660,12971987-e66c-45dd-9843-b4784c30d9a2,279cd9eb-1d9c-4e4c-a44e-e751ae0eae66;cc5b0caf-3ed1-4711-a50d-11dc3f1fdc6a,,;,,;1715b877-4512-472e-9bd0-fd568a112e90,,;236087a5-5597-4ee7-ab06-75b01147f596,,;ee0b6a78-c6b6-4852-aecb-d7c474a37d68,,"
+data "VerbalIntent" "Utility"
+data "SpellFlags" "HasSomaticComponent;IsSpell"
+data "UseCosts" "ActionPoint:1;Stormlight:2"
+data "PrepareEffect" "33302a46-4a12-41dd-8845-6b7314d50022"
+data "CastEffect" "bcd66fb0-b0bc-41d0-abba-ad443d63dd72"
+data "TargetEffect" "f2519a63-63bf-46c6-821a-c52a55815cd0"
+
+new entry "Passive_Unlock_Ride_The_Winds"
+type "PassiveData"
+data "DisplayName" "hd0b1a8cega1aeg4517g8f3bgb69d87a3fe77;2"
+data "Description" "h5d0fa563gdd24g4f6fga280g47ec7e43e4eb;2"
+data "Boosts" "UnlockSpell(Shout_Ride_The_Winds)"
+data "Properties" "Hidden"
+
 // Gravitational Launch
 
 new entry "Passive_Unlock_Gravitational_Launch"

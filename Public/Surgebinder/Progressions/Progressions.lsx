@@ -188,6 +188,15 @@
                     <attribute id="UUID" type="guid" value="2a510327-c010-44e5-b14e-ad3996c6c682"/>
                 </node>
                 <node id="Progression">
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Unlock_Ride_The_Winds"/>
+                    <attribute id="TableUUID" type="guid" value="86ad2834-fc93-45dd-8ec0-ee5d406ba230"/>
+                    <attribute id="UUID" type="guid" value="d19c5c7c-73ad-4fe5-9890-9d9659cfa475"/>
+                </node>
+                <node id="Progression">
                     <attribute id="Level" type="uint8" value="7"/>
                     <attribute id="Name" type="LSString" value="OrderOfWindrunners"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
