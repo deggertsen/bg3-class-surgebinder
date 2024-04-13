@@ -244,7 +244,7 @@
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/> 
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_Unlock_Progression_SpikeGrowth"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Unlock_Progression_SpikeGrowth;Passive_Unlock_Abrasion_SlickWeapon"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="319b63e0-a4c3-4f21-9937-6f59fece0e02"/>
