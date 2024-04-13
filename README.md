@@ -66,10 +66,10 @@ Entangle NEEDS TESTING
 
 #### lvl 4
 Momentum each turn and increased initiative NEEDS TESTING
-Goodberry
+Goodberry NEEDS TESTING
 
 #### lvl 5
-Spike Growth
+Spike Growth NEEDS TESTING
 Disarming Strike
 
 #### lvl 6
