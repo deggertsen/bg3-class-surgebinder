@@ -12,6 +12,6 @@ data "Icon" "statIcons_WildMagic_Heal"
 data "Properties" "Highlighted"
 data "Conditions" "not HasMaxHP()"
 data "StatsFunctorContext" "OnTurn"
-data "StatsFunctors" "RegainHitPoints(3*ClassLevel(Surgebinder))"
+data "StatsFunctors" "RegainHitPoints(2*ClassLevel(Surgebinder))"
 data "UseCosts" "Stormlight:1"
 
