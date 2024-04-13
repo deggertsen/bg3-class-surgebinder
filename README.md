@@ -61,8 +61,8 @@ Slip and Slide (Dash bonus action) NEEDS TESTING
 
 #### lvl 3
 Slick - Freedom of Movement (action) NEEDS TESTING
-Lesser Restoration
-Entangle
+Lesser Restoration NEEDS TESTING
+Entangle NEEDS TESTING
 
 #### lvl 4
 Gain momentum each turn and gain more whenever you use stormlight
