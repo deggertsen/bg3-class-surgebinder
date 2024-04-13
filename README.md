@@ -56,20 +56,20 @@ Tie Up IN PROGRESS
 
 ### Edgedancer
 #### lvl 2
-Cure Wounds NEEDS TESTING
-Slip and Slide (Dash bonus action) NEEDS TESTING
+Cure Wounds DONE
+Slip and Slide (Dash bonus action) DONE
 
 #### lvl 3
-Slick - Freedom of Movement (action) NEEDS TESTING
-Lesser Restoration NEEDS TESTING
-Entangle NEEDS TESTING
+Slick - Freedom of Movement (action) DONE
+Lesser Restoration DONE
+Entangle DONE
 
 #### lvl 4
-Momentum each turn and increased initiative NEEDS TESTING
-Goodberry NEEDS TESTING
+Momentum each turn and increased initiative DONE
+Goodberry DONE
 
 #### lvl 5
-Spike Growth NEEDS TESTING
+Spike Growth DONE
 
 #### lvl 6
 Mass Cure Wounds
