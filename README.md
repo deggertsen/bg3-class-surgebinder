@@ -65,7 +65,7 @@ Lesser Restoration NEEDS TESTING
 Entangle NEEDS TESTING
 
 #### lvl 4
-Gain momentum each turn and gain more whenever you use stormlight
+Momentum each turn and increased initiative NEEDS TESTING
 Goodberry
 
 #### lvl 5

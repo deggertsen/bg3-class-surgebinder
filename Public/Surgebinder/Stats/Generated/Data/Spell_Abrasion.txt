@@ -42,7 +42,6 @@ new entry "Passive_Unlock_Abrasion_FreedomOfMovement"
 type "PassiveData"
 data "DisplayName" "h2d9bbc0eg93f0g4c4fg86ebg348c6131ba0d"
 data "Description" "haae7dff8gd9a8g4ba2g88bbg6d58885e160c"
-data "DescriptionParams" "Distance(3)"
 data "Boosts" "UnlockSpell(Abrasion_FreedomOfMovement)"
 data "Properties" "Hidden"
 
@@ -56,3 +55,19 @@ data "DisplayName" "h4fd12e18g909ag42dcg8e30g87c6bd18b125"
 data "Description" "h8db27e65gf031g4349g8090gd4d2343a7a0b"
 data "UseCosts" "BonusActionPoint:1;Stormlight:1"
 data "SpellFlags" "IgnoreSilence;Stealth;Invisible;NoCameraMove"
+
+new entry "Passive_Unlock_Abrasion_Slide"
+type "PassiveData"
+data "DisplayName" "h4fd12e18g909ag42dcg8e30g87c6bd18b125"
+data "Description" "h8db27e65gf031g4349g8090gd4d2343a7a0b"
+data "Boosts" "UnlockSpell(Abrasion_Slide)"
+data "Properties" "Hidden"
+
+// Abrasion Momentum
+
+new entry "Abrasion_Momentum"
+type "PassiveData"
+data "DisplayName" "h9df0a932gf0f9g4fcdg8b64g505002671fc3"
+data "Description" "h84b179f0g69c0g4f20gb56cg9dde41abe907"
+data "Boosts" "Initiative(3);ActionResource(Movement, 3, 0)"
+data "Properties" "Hidden"
