@@ -56,7 +56,7 @@ Tie Up IN PROGRESS
 
 ### Edgedancer
 #### lvl 2
-Freedom of Movement (bonus action) NEEDS TESTING
+Freedom of Movement (action) NEEDS TESTING
 Decrease Wind Friction (Dash bonus action) NEEDS TESTING
 
 #### lvl 3

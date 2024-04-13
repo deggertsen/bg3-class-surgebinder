@@ -42,8 +42,8 @@
 	<content contentuid="h56b593a6g60e5g43bdga218gb6c487bf0b5f" version="1">Gravitational Launch</content>
 	<content contentuid="h423639b6gdf0cg455cg8a2cg69233a2305a6" version="1">You touch a creature or an object inflicting them with a strong force that launches them in the air.</content>
 
-	<content contentuid="ha97ae75cgef03g4374g9c9ag4c2a6119f754" version="1">Decrease Friction</content>
-	<content contentuid="h58b6cfa7gef39g4805gb03ag9fb473c65c5d" version="1">Use the Abrasion surge to decrease friction around you making you impossible to restrain or slowed down.</content>
+	<content contentuid="ha97ae75cgef03g4374g9c9ag4c2a6119f754" version="1">Slick</content>
+	<content contentuid="h58b6cfa7gef39g4805gb03ag9fb473c65c5d" version="1">Use the Abrasion surge to become slick making you impossible to restrain or slowed down.</content>
 	
 	<content contentuid="h4fd12e18g909ag42dcg8e30g87c6bd18b125" version="1">Slip and Slide</content>
 	<content contentuid="h8db27e65gf031g4349g8090gd4d2343a7a0b" version="1">Reduce wind and ground friction to travel long distances at considerable speeds.</content>
