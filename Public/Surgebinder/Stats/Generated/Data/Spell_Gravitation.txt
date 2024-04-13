@@ -24,7 +24,7 @@ data "SoundLoop" "Spell_Status_Longstrider_MO"
 data "SoundStop" "Spell_Status_Haste_MO_Stop"
 data "StackId" "DENY_GRAVITY"
 data "StackPriority" "10"
-data "Boosts" "ActionResource(Movement, 6,0);JumpMaxDistanceBonus(3);IgnoreFallDamage()"
+data "Boosts" "ActionResource(Movement, 3,0);JumpMaxDistanceBonus(3);IgnoreFallDamage()"
 data "ApplyEffect" "e0438396-b78d-4249-bc46-f45dd6feb10a"
 data "StatusEffect" "b79270c7-13cd-44d9-82f5-11eb41ca5f8a"
 

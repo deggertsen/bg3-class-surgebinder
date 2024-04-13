@@ -34,11 +34,11 @@ Deflect missiles (similar ability to missile snaring but consumes Stormlight) DO
 Gravitational Imprisonment (like hold person except you have to be melee range and consumes storm light to bind them) DONE
 
 #### lvl 4
-Deny Gravity - You gain a bonus to movement speed, jump distance and immunity to falling damage
+Deny Gravity - You gain a bonus to movement speed, jump distance and immunity to falling damage DONE
 
 #### lvl 5
-Ride the Winds NEEDS TESTING
-Gust of wind?
+Ride the Winds DONE
+Gust of wind DONE
 
 #### lvl 6
 Wind Walk
