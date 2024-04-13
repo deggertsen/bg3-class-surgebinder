@@ -37,7 +37,7 @@ Gravitational Imprisonment (like hold person except you have to be melee range a
 Deny Gravity - You gain a bonus to movement speed, jump distance and immunity to falling damage
 
 #### lvl 5
-Ride the Winds
+Ride the Winds NEEDS TESTING
 Gust of wind?
 
 #### lvl 6
@@ -52,7 +52,7 @@ Cleave that can be used with Stormlight
 
 #### lvl 9
 Haste
-Tie Up
+Tie Up IN PROGRESS
 
 ### Edgedancer
 #### lvl 2
