@@ -234,7 +234,7 @@
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/> 
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Abrasion_Momentum;Passive_Unlock_Progression_Goodberry"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="9084f92c-06e6-4230-bfac-30775e5fa07c"/>
