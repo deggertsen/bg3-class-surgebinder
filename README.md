@@ -56,11 +56,12 @@ Tie Up IN PROGRESS
 
 ### Edgedancer
 #### lvl 2
-Freedom of Movement (action) NEEDS TESTING
-Decrease Wind Friction (Dash bonus action) NEEDS TESTING
+Cure Wounds NEEDS TESTING
+Slip and Slide (Dash bonus action) NEEDS TESTING
 
 #### lvl 3
-Cure Wounds
+Slick - Freedom of Movement (action) NEEDS TESTING
+Lesser Restoration
 Entangle
 
 #### lvl 4

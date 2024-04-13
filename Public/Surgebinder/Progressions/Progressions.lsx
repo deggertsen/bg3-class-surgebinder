@@ -215,7 +215,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_Unlock_Abrasion_FreedomOfMovement;Abrasion_Slide"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Unlock_Progression_CureWounds;Abrasion_Slide"/>
                     <attribute id="Boosts" type="LSString" value=""/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="7b8c81e1-b31a-46fd-babb-834e098ff474"/>
@@ -225,7 +225,7 @@
                     <attribute id="Name" type="LSString" value="OrderOfEdgedancers"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="Boosts" type="LSString" value=""/> 
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Unlock_Abrasion_FreedomOfMovement"/>
                     <attribute id="TableUUID" type="guid" value="7c6e3546-269b-49ea-9467-fb58bde3172c"/>
                     <attribute id="UUID" type="guid" value="9beb7905-4e74-48ce-951a-ddb8d0933552"/>
                 </node>
