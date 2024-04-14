@@ -96,7 +96,45 @@ new entry "Passive_Unlock_Ride_The_Winds"
 type "PassiveData"
 data "DisplayName" "hd0b1a8cega1aeg4517g8f3bgb69d87a3fe77;2"
 data "Description" "h5d0fa563gdd24g4f6fga280g47ec7e43e4eb;2"
+data "Icon" "Spell_Transmutation_GaseousForm"
 data "Boosts" "UnlockSpell(Shout_Ride_The_Winds)"
+data "Properties" "Hidden"
+
+// Wind Walk
+
+new entry "Gravitation_WindWalk"
+type "SpellData"
+data "SpellType" "Shout"
+data "SpellProperties" "ApplyStatus(GASEOUS_FORM,100,10)"
+data "AreaRadius" "9"
+data "TargetConditions" "Party() and not Dead()"
+data "Icon" "Spell_Transmutation_WindWalk"
+// Wind Walk
+data "DisplayName" "h5ce0d4f2gf816g4a30g8753g81ee6d346972;2"
+// Transform yourself and all nearby party members into tiny clouds of mist to avoid attacks.
+data "Description" "h5f2d4a1fg5fcag4677g9998gda426fb51599;4"
+// You become <LSTag Tooltip="Resistant">Resistant</LSTag> to non-magical damage, gain <LSTag Tooltip="Advantage">Advantage</LSTag> on Constitution, Dexterity and Strength <LSTag Tooltip="SavingThrow">Saving Throws</LSTag>, and become tiny in size.
+data "ExtraDescription" "hd97d07c0g3581g4667gbecfg55df1a258860;2"
+data "TooltipStatusApply" "ApplyStatus(GASEOUS_FORM,100,10)"
+data "TooltipPermanentWarnings" "bfefd859-3cb5-488f-93f5-839bc03f7e59"
+data "CastSound" "Spell_Cast_Utility_WindWalk_L6to8"
+data "TargetSound" "Spell_Impact_Utility_WindWalk_L6to8"
+data "PreviewCursor" "Cast"
+data "CastTextEvent" "Cast"
+data "UseCosts" "ActionPoint:1;Stormlight:6"
+data "SpellAnimation" "03496c4a-49e0-4132-b585-3e5ecd1ad8e5,,;,,;dada6495-752c-4f30-a503-f05b8c811e2b,,;8ce53f9b-b559-49cd-9607-1991545060d7,,;a9682ef9-5d9e-4ac0-8144-2c7fe6eb868c,,;,,;32fb4d91-7fde-4b05-9144-ea87b9a4284a,,;,,;,,"
+data "VerbalIntent" "Buff"
+data "SpellFlags" "HasSomaticComponent;IsSpell"
+data "PrepareEffect" "43bed935-8184-4e4c-ac85-229292e2e4ca"
+data "CastEffect" "df647d07-a7eb-43bc-85ac-8a5e06cec72f"
+data "TargetEffect" "8656c1c7-8ac1-48da-91f2-a878beb02b00"
+
+new entry "Passive_Unlock_Gravitation_WindWalk"
+type "PassiveData"
+data "DisplayName" "h5ce0d4f2gf816g4a30g8753g81ee6d346972;2"
+data "Description" "h5f2d4a1fg5fcag4677g9998gda426fb51599;4"
+data "Icon" "Spell_Transmutation_GaseousForm"
+data "Boosts" "UnlockSpell(Gravitation_WindWalk)"
 data "Properties" "Hidden"
 
 // Gravitational Launch

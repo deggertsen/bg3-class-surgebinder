@@ -41,7 +41,7 @@ Ride the Winds DONE
 Gust of wind DONE
 
 #### lvl 6
-Wind Walk
+Wind Walk NEEDS TESTING
 
 #### lvl 7
 Fly
@@ -70,6 +70,7 @@ Goodberry DONE
 
 #### lvl 5
 Spike Growth DONE
+Disarming Strike NEEDS TESTING
 
 #### lvl 6
 Mass Cure Wounds
