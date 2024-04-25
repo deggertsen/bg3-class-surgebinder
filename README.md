@@ -37,58 +37,57 @@ Gravitational Imprisonment (like hold person except you have to be melee range a
 Deny Gravity - You gain a bonus to movement speed, jump distance and immunity to falling damage DONE
 
 #### lvl 5
-Ride the Winds DONE
-Gust of wind DONE
+* Ride the Winds DONE
+* Gust of wind DONE
 
 #### lvl 6
 Wind Walk NEEDS TESTING
 
 #### lvl 7
-Fly NEEDS TESTING
-Launch NEEDS TESTING
+* Fly NEEDS TESTING
+* Launch NEEDS TESTING
 
 #### lvl 8
 Cleave that can be used with Stormlight
 
 #### lvl 9
-Haste
-Tie Up IN PROGRESS
+* Haste
+* Tie Up IN PROGRESS
 
 ### Edgedancer
 #### lvl 2
-Cure Wounds DONE
-Slip and Slide (Dash bonus action) DONE
+* Cure Wounds DONE
+* Slip and Slide (Dash bonus action) DONE
 
 #### lvl 3
-Slick - Freedom of Movement (action) DONE
-Lesser Restoration DONE
-Entangle DONE
+* Slick - Freedom of Movement (action) DONE
+* Lesser Restoration DONE
+* Entangle DONE
 
 #### lvl 4
-Momentum each turn and increased initiative DONE
-Goodberry DONE
+* Momentum each turn and increased initiative DONE
+* Goodberry DONE
 
 #### lvl 5
-Spike Growth DONE
-Disarming Strike NEEDS TESTING
+* Spike Growth DONE
+* Disarming Strike NEEDS TESTING
 
 #### lvl 6
-Mass Cure Wounds
-Plant Growth
+* Mass Cure Wounds
+* Plant Growth
 
 #### lvl 7
-Grasping Vine
-Rush Attack with stormlight
+* Grasping Vine
 
 #### lvl 8
-Heal
+* Heal
 
 #### lvl 9
-Heroes' Feast
-Wall of Stone
+* Heroes' Feast
+* Wall of Stone
 
 #### lvl 10
-Wall of Thorns
+* Wall of Thorns
 
 ### Lightweaver
 #### lvl 2
