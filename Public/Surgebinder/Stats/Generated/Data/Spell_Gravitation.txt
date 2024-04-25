@@ -137,6 +137,36 @@ data "Icon" "Spell_Transmutation_GaseousForm"
 data "Boosts" "UnlockSpell(Gravitation_WindWalk)"
 data "Properties" "Hidden"
 
+// Gravitational Flying
+
+new entry "Gravitation_Flying"
+type "SpellData"
+data "SpellType" "Shout"
+data "SpellProperties" "ApplyStatus(FLY,100,10)"
+data "TargetConditions" "Self()"
+data "Icon" "Spell_Transmutation_Fly"
+data "DisplayName" "h67f804b0gfeadg4b27gb262gbab5a3a32863"
+data "Description" "hbd233f5fgb12bg4338g88a3g1c63906fea42"
+data "TooltipStatusApply" "ApplyStatus(FLY,100,10)"
+data "PrepareSound" "Vocal_Component_Monk_Utility"
+data "CastSound" "Action_Cast_Monk_RidetheWind"
+data "VocalComponentSound" "Vocal_Component_Stop"
+data "CastTextEvent" "Cast"
+data "UseCosts" "ActionPoint:1;Stormlight:3"
+data "SpellAnimation" "c7438204-9e84-4eee-91b4-c3289fbda0b7,,;9dec9d1f-ac78-4e2d-9095-1e0c8351144c,,;bd7104f0-6bb8-413c-8a38-ca0b2072a624,,;1853afa3-d7c2-4957-a293-c32b6ec9a88a,,;36a98c4d-bab0-4302-ae78-d7a75c3bb9e4,,;,,;688653ba-7032-4d40-ac02-ce8b3af93516,,;,,;,,"
+data "VerbalIntent" "Buff"
+data "SpellFlags" "HasSomaticComponent"
+data "PrepareEffect" "7bb2af21-e943-4e9e-92f0-ab5143c1a9d7"
+data "CastEffect" "31c7da90-3ba8-4579-a8b7-9610885604fb"
+
+new entry "Passive_Unlock_Gravitation_Flying"
+type "PassiveData"
+data "DisplayName" "h67f804b0gfeadg4b27gb262gbab5a3a32863"
+data "Description" "hbd233f5fgb12bg4338g88a3g1c63906fea42"
+data "Icon" "Spell_Transmutation_Fly"
+data "Boosts" "UnlockSpell(Gravitation_Flying)"
+data "Properties" "Hidden"
+
 // Gravitational Launch
 
 new entry "Passive_Unlock_Gravitational_Launch"

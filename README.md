@@ -44,7 +44,7 @@ Gust of wind DONE
 Wind Walk NEEDS TESTING
 
 #### lvl 7
-Fly
+Fly NEEDS TESTING
 Launch NEEDS TESTING
 
 #### lvl 8

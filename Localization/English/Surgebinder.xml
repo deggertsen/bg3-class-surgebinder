@@ -39,6 +39,8 @@
 	<content contentuid="haae7dff8gd9a8g4ba2g88bbg6d58885e160c" version="1">You gain a bonus to movement speed, jump distance and immunity to falling damage</content>
 	<content contentuid="h3e7dd9aag84e8g4217g9a7cg8bd28bfa3bd2" version="1">Gravitational pull</content>
 	<content contentuid="h15b49065g70b0g471fg84e9g3f0a99ff5e7a" version="1">You are being pulled by gravity and may fall.</content>
+	<content contentuid="h67f804b0gfeadg4b27gb262gbab5a3a32863" version="1">Fly</content>
+	<content contentuid="hbd233f5fgb12bg4338g88a3g1c63906fea42" version="1">Using your stormlight you can control gravity's pull on your body allowing you to fly.</content>
 	<content contentuid="h56b593a6g60e5g43bdga218gb6c487bf0b5f" version="1">Gravitational Launch</content>
 	<content contentuid="h423639b6gdf0cg455cg8a2cg69233a2305a6" version="1">You touch a creature or an object inflicting them with a strong force that launches them in the air.</content>
 
