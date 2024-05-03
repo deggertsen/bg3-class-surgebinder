@@ -70,16 +70,14 @@
 	<content contentuid="h237d8b19g6609g41cag9f44gc151dabbc7f3" version="1">Summon your Shardblade in the form of a Rapier.</content>
 	<content contentuid="h16ebd6a5gae75g4176g8f33gb9cd4d058bb7" version="1">Summon Shardblade Spear</content>
 	<content contentuid="hc0736ff0g1b47g453cg90e1g9509c9247013" version="1">Summon your Shardblade in the form of a Spear.</content>
-	<content contentuid="h7e45be41gac68g4fbcg91c1gd8cb458d25f9" version="1">Dismiss Shardblade</content>
-	<content contentuid="h650784f4g74e4g4827ga912g4ee75c445e3e" version="1">Dismiss your Shardblade.</content>
 	
 	<content contentuid="h94276812g66d7g4bd8ga1afgb0fb725ffb65" version="1">Shardplate</content>
 	<content contentuid="ha5c97909g5f02g4c79g9219g4a8cc6db0e05" version="1">Shardplate is an ancient and magical type of full-body armor normally only found on Roshar.</content>
 	
 	<content contentuid="ha971b89fg5a17g4fd9g9faag26b0fd23b7f3" version="1">Summon Shardplate</content>
-	<content contentuid="he6ae3eb1g2c13g4a17ga2c7g4bd5f08ac1ae" version="1">Summon your Shardplate.</content>
+	<content contentuid="he6ae3eb1g2c13g4a17ga2c7g4bd5f08ac1ae" version="1">Summon your Shardplate. Will be automatically dismissed outside of combat.</content>
 	<content contentuid="ha1f724c4g3f34g4b83g938bgbddb68e67a96" version="1">Shardplate Aura</content>
-	<content contentuid="h96d3d41eg20c8g41efgb70fg158e834f7df4" version="1">Your Shardplate grants you unnatural strength and speed.</content>
+	<content contentuid="h96d3d41eg20c8g41efgb70fg158e834f7df4" version="1">Your Shardplate grants you unnatural strength and speed at the cost of 2 stormlight per round.</content>
 	<content contentuid="h8fe6ac6eg1babg40bfg8754g328cf12277a0" version="1">Dismiss Shardplate</content>
 	<content contentuid="h7cb19666g0c09g4716g9035g1d0746ffdea7" version="1">Dismiss your Shardplate.</content>
 </contentList>
