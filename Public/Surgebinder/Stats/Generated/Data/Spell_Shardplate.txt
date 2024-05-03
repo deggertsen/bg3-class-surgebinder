@@ -68,4 +68,4 @@ data "SpellAnimation" "f489d217-b699-4e8e-bf22-6ef539c5d65b,,;,,;7a343ea7-1330-4
 data "VerbalIntent" "Utility"
 data "PrepareEffect" "31920fd1-c569-4325-be73-16431069d364"
 data "CastEffect" "a9d7947e-3c88-41c6-aec8-18ae408c366a"
-data "FollowUpOriginalSpell" "Target_SummonShardplate"
+data "FollowUpOriginalSpell" "Shout_SummonShardplate"
