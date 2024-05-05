@@ -7,7 +7,7 @@ Oaths can be broken similar to paladin devotion. Oath breakers lose access to st
 To add a custom icon for Stormlight we could follow this guide: https://docs.google.com/document/d/18JMDanoAUNg0uwU2GhA0pPekvGSuqIDJNDMHUOHZIT8/edit#heading=h.4ga291m924cz
 
 #### lvl 1
-Find familiar (spren) DONE
+* Find familiar (spren) DONE
 * Spren grants advantage on all Intelligence, Wisdom, and Charisma saving throws DONE
 * Has no strength, but high dexterity and constitution DONE
 
@@ -17,38 +17,35 @@ Find familiar (spren) DONE
 * Stormlight healing DONE
 
 #### lvl 3
-Summon Shardblade DONE
+* Summon Shardblade DONE
 
 #### lvl 5
-Extra Attack DONE
+* Extra Attack DONE
 
 #### lvl 8
-Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes Stormlight per turn) IN PROGRESS
+* Summon Shardplate (similar to Shar's Aegis, but much stronger and consumes Stormlight per turn) IN PROGRESS
 
 ## Sub Classes
 ### Windrunner
 #### lvl 2
-Deflect missiles (similar ability to missile snaring but consumes Stormlight) DONE
+* Deflect missiles (similar ability to missile snaring but consumes Stormlight) DONE
 
 #### lvl 3
-Gravitational Imprisonment (like hold person except you have to be melee range and consumes storm light to bind them) DONE
+* Gravitational Imprisonment (like hold person except you have to be melee range and consumes storm light to bind them) DONE
 
 #### lvl 4
-Deny Gravity - You gain a bonus to movement speed, jump distance and immunity to falling damage DONE
+* Deny Gravity - You gain a bonus to movement speed, jump distance and immunity to falling damage DONE
 
 #### lvl 5
 * Ride the Winds DONE
 * Gust of wind DONE
 
 #### lvl 6
-Wind Walk NEEDS TESTING
+* Wind Walk NEEDS TESTING
 
 #### lvl 7
 * Fly NEEDS TESTING
 * Launch NEEDS TESTING
-
-#### lvl 8
-Cleave that can be used with Stormlight
 
 #### lvl 9
 * Haste
