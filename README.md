@@ -88,17 +88,38 @@ To add a custom icon for Stormlight we could follow this guide: https://docs.goo
 
 ### Lightweaver
 #### lvl 2
+Minor Illusion
+Color Spray
+Disguise Self
+Create and Destroy Water
+Grease
+Fog Cloud
+Frost Fingers
+Get instrument
 
 #### lvl 3
+Mirror Image
+Phantasmal Force
 
 #### lvl 4
+Heat Metal 
 
 #### lvl 5
+Fear
+Create Food and Water
+Sleet Storm
 
 #### lvl 6
+Inspirational Visions (Can use Motivational Speech, up to 3/4 times per long rest)
 
 #### lvl 7
+Phantasmal Killer
+Stoneskin 
 
 #### lvl 8
+Cloudkill
+Seeming
 
 #### lvl 9
+Mental Prison
+Master Illusionist (Can use Mirror Image on up to 4 targets, up to 4 times per long rest)
